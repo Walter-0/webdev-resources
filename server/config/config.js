@@ -9,7 +9,7 @@ var config = {
       name: 'projects'
     },
     port: process.env.PORT || 3000,
-    db: 'mysql://localhost/projects-development'
+    db: 'mysql://root@localhost/projects-development'
   },
 
   test: {
@@ -18,7 +18,7 @@ var config = {
       name: 'projects'
     },
     port: process.env.PORT || 3000,
-    db: 'mysql://localhost/projects-test'
+    db: 'mysql://root@localhost/projects-test'
   },
 
   production: {
@@ -27,7 +27,7 @@ var config = {
       name: 'projects'
     },
     port: process.env.PORT || 3000,
-    db: 'mysql://localhost/projects-production'
+    db: 'mysql://root@localhost/projects-production'
   }
 };
 

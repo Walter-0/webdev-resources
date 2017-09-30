@@ -1,16 +1,13 @@
-var express = require('express'),
+const express = require('express'),
   router = express.Router(),
-  db = require('../models');
+  db = require('../models'),
+  path = require('path');
 
 module.exports = function (app) {
   app.use('/', router);
 };
 
 router.get('/', function (req, res, next) {
-  db.Article.findAll().then(function (articles) {
-    res.render('index', {
-      title: 'Generator-Express MVC',
-      articles: articles
-    });
-  });
+  console.log(__dirname);
+  res.sendFile(path.join(__dirname, '../../../dist/index.html'));
 });
