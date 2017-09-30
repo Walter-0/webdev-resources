@@ -1,6 +1,6 @@
 var path = require('path'),
-    rootPath = path.normalize(__dirname + '/..'),
-    env = process.env.NODE_ENV || 'development';
+  rootPath = path.normalize(__dirname + '/..'),
+  env = process.env.NODE_ENV || 'development';
 
 var config = {
   development: {
@@ -9,7 +9,7 @@ var config = {
       name: 'projects'
     },
     port: process.env.PORT || 3000,
-    db: 'mysql://root@localhost/projects-development'
+    db: "mysql://root:JavaOne!2005@localhost:3306/webdev_db"
   },
 
   test: {
