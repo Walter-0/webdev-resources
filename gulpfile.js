@@ -17,7 +17,7 @@ gulp.task('watch', function () {
 gulp.task('develop', function () {
   livereload.listen();
   nodemon({
-    script: 'app.js',
+    script: 'server/app.js',
     ext: 'js coffee handlebars',
     stdout: false
   }).on('readable', function () {
@@ -31,8 +31,14 @@ gulp.task('develop', function () {
   });
 });
 
+gulp.task('build-client', function () {
+  gulp.src('./client/src/index.html')
+    .pipe(gulp.dest('./dist'));
+});
+
 gulp.task('default', [
   'sass',
   'develop',
-  'watch'
+  'watch',
+  'build-client'
 ]);
