@@ -10,7 +10,7 @@
     "test-frontend": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "start": "node serve/app.js",
+    "start": "node server/app.js",
     "test": "NODE_ENV=test mocha --recursive test",
     "test:coverage": "nyc npm test",
     "test:unit": "mocha --recursive test/middleware test/models test/routes",
