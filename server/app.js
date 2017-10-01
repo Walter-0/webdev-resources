@@ -1,13 +1,13 @@
-
-
-var express = require('express'),
+const express = require('express'),
   config = require('./config/config'),
   db = require('./app/models');
 
+const path = require('path');
+
 var app = express();
+app.use(express.static(path.join(__dirname, '../client/dist')));
 
 module.exports = require('./config/express')(app, config);
-
 db.sequelize
   .sync()
   .then(function () {
@@ -19,4 +19,3 @@ db.sequelize
   }).catch(function (e) {
     throw new Error(e);
   });
-

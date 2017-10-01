@@ -4,6 +4,8 @@ var gulp = require('gulp'),
   livereload = require('gulp-livereload'),
   sass = require('gulp-ruby-sass');
 
+var exec = require('child_process').exec;
+
 gulp.task('sass', function () {
   return sass('./public/css/**/*.scss')
     .pipe(gulp.dest('./public/css'))
@@ -31,9 +33,12 @@ gulp.task('develop', function () {
   });
 });
 
-gulp.task('build-client', function () {
-  gulp.src('./client/src/index.html')
-    .pipe(gulp.dest('./dist'));
+gulp.task('build-client', function (cb) {
+  exec('cd client/ && ln -s ../node_modules && ng build', function (err, stdout, stderr) {
+    console.log(stdout);
+    console.log(stderr);
+    cb(err);
+  });
 });
 
 gulp.task('default', [

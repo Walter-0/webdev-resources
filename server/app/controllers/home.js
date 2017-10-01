@@ -9,5 +9,4 @@ module.exports = function (app) {
 
 router.get('/', function (req, res, next) {
   console.log(__dirname);
-  res.sendFile(path.join(__dirname, '../../../dist/index.html'));
 });
