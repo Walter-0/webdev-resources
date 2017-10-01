@@ -16,7 +16,7 @@ gulp.task('watch', function () {
   gulp.watch('./public/css/*.scss', ['sass']);
 });
 
-gulp.task('develop', function () {
+gulp.task('develop', ['build-client'], function () {
   livereload.listen();
   nodemon({
     script: 'server/app.js',
@@ -34,7 +34,7 @@ gulp.task('develop', function () {
 });
 
 gulp.task('build-client', function (cb) {
-  exec('cd client/ && ln -s ../node_modules && ng build', function (err, stdout, stderr) {
+  exec('cd client/ && ln -sf ../node_modules && ng build', function (err, stdout, stderr) {
     console.log(stdout);
     console.log(stderr);
     cb(err);
@@ -43,7 +43,7 @@ gulp.task('build-client', function (cb) {
 
 gulp.task('default', [
   'sass',
+  'build-client',
   'develop',
-  'watch',
-  'build-client'
+  'watch'
 ]);
