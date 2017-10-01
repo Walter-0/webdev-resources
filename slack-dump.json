@@ -1,0 +1,2659 @@
+[
+  {
+    "attachments": [
+      {
+        "fallback": "What is the difference between Normalize.css and Reset CSS?",
+        "from_url": "https:\/\/stackoverflow.com\/questions\/6887336\/what-is-the-difference-between-normalize-css-and-reset-css",
+        "id": 1,
+        "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+        "service_name": "stackoverflow.com",
+        "text": "I know what CSS Reset is, but recently I heard about this new thing called Normalize.css What is the difference between Normalize.css and Reset CSS? What is the difference between normalizing CSS...",
+        "thumb_height": 316,
+        "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+        "thumb_width": 316,
+        "title": "What is the difference between Normalize.css and Reset CSS?",
+        "title_link": "https:\/\/stackoverflow.com\/questions\/6887336\/what-is-the-difference-between-normalize-css-and-reset-css"
+      }
+    ],
+    "datetime": "2017-06-14T00:50:15Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "Normalize.css vs Reset.css\n<https:\/\/stackoverflow.com\/questions\/6887336\/what-is-the-difference-between-normalize-css-and-reset-css>",
+    "ts": "1497401415.911033",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "datetime": "2017-06-14T00:52:26Z",
+    "edited": {
+      "ts": "1497402467.000000",
+      "user": "U5MJF0C20"
+    },
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "Cross-browser compatibility\n<https:\/\/caniuse.com\/>",
+    "ts": "1497401546.928872",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Cheetyr \u2013 CSS Selectors Cheat Sheet",
+        "from_url": "http:\/\/www.cheetyr.com\/css-selectors",
+        "id": 1,
+        "service_icon": "http:\/\/www.cheetyr.com\/favicon.ico",
+        "service_name": "cheetyr.com",
+        "text": "A handy collection of cheat sheets for designers and developers.",
+        "title": "Cheetyr \u2013 CSS Selectors Cheat Sheet",
+        "title_link": "http:\/\/www.cheetyr.com\/css-selectors"
+      }
+    ],
+    "datetime": "2017-06-16T00:29:03Z",
+    "name": "walter",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U5E5649M2",
+          "U5FB2A97Z"
+        ]
+      }
+    ],
+    "real_name": "Walter Augustine",
+    "text": "<http:\/\/www.cheetyr.com\/css-selectors>",
+    "ts": "1497572943.867357",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "bot_id": null,
+    "datetime": "2017-06-16T01:32:17Z",
+    "display_as_bot": false,
+    "file": {
+      "channels": [
+        "C58TT4H2R"
+      ],
+      "comments_count": 0,
+      "created": 1497576732,
+      "display_as_bot": false,
+      "editable": false,
+      "external_type": "",
+      "filetype": "jpg",
+      "groups": [
+
+      ],
+      "id": "F5U3N8EUR",
+      "image_exif_rotation": 1,
+      "ims": [
+
+      ],
+      "is_external": false,
+      "is_public": true,
+      "mimetype": "image\/jpeg",
+      "mode": "hosted",
+      "name": "Image uploaded from iOS.jpg",
+      "original_h": 3024,
+      "original_w": 4032,
+      "permalink": "https:\/\/unhcodingbootcamp.slack.com\/files\/U5E5649M2\/F5U3N8EUR\/image_uploaded_from_ios.jpg",
+      "permalink_public": "https:\/\/slack-files.com\/T4THRLVNH-F5U3N8EUR-41c816d8a4",
+      "pretty_type": "JPEG",
+      "public_url_shared": false,
+      "size": 2154521,
+      "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4THRLVNH-F5U3N8EUR-f0bfcfbd52\/image_uploaded_from_ios_1024.jpg",
+      "thumb_1024_h": 768,
+      "thumb_1024_w": 1024,
+      "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4THRLVNH-F5U3N8EUR-f0bfcfbd52\/image_uploaded_from_ios_160.jpg",
+      "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4THRLVNH-F5U3N8EUR-f0bfcfbd52\/image_uploaded_from_ios_360.jpg",
+      "thumb_360_h": 270,
+      "thumb_360_w": 360,
+      "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4THRLVNH-F5U3N8EUR-f0bfcfbd52\/image_uploaded_from_ios_480.jpg",
+      "thumb_480_h": 360,
+      "thumb_480_w": 480,
+      "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4THRLVNH-F5U3N8EUR-f0bfcfbd52\/image_uploaded_from_ios_64.jpg",
+      "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4THRLVNH-F5U3N8EUR-f0bfcfbd52\/image_uploaded_from_ios_720.jpg",
+      "thumb_720_h": 540,
+      "thumb_720_w": 720,
+      "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4THRLVNH-F5U3N8EUR-f0bfcfbd52\/image_uploaded_from_ios_80.jpg",
+      "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4THRLVNH-F5U3N8EUR-f0bfcfbd52\/image_uploaded_from_ios_800.jpg",
+      "thumb_800_h": 600,
+      "thumb_800_w": 800,
+      "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4THRLVNH-F5U3N8EUR-f0bfcfbd52\/image_uploaded_from_ios_960.jpg",
+      "thumb_960_h": 720,
+      "thumb_960_w": 960,
+      "timestamp": 1497576732,
+      "title": "Image uploaded from iOS",
+      "url_private": "https:\/\/files.slack.com\/files-pri\/T4THRLVNH-F5U3N8EUR\/image_uploaded_from_ios.jpg",
+      "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4THRLVNH-F5U3N8EUR\/download\/image_uploaded_from_ios.jpg",
+      "user": "U5E5649M2",
+      "username": ""
+    },
+    "name": "edorsini",
+    "real_name": "Ed Orsini",
+    "subtype": "file_share",
+    "text": "<@U5E5649M2> uploaded a file: <https:\/\/unhcodingbootcamp.slack.com\/files\/U5E5649M2\/F5U3N8EUR\/image_uploaded_from_ios.jpg|Image uploaded from iOS>",
+    "ts": "1497576737.341048",
+    "type": "message",
+    "upload": true,
+    "upload_reply_to": "97E112B6-668F-4784-AC5A-7EA78EED2D7D",
+    "user": "U5E5649M2",
+    "username": "edorsini"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Pesticide for Chrome",
+        "from_url": "https:\/\/chrome.google.com\/webstore\/detail\/pesticide-for-chrome\/bblbgcheenepgnnajgfpiicnbbdmmooh?hl=en-US",
+        "id": 1,
+        "service_icon": "https:\/\/www.google.com\/images\/icons\/product\/chrome_web_store-32.png",
+        "service_name": "chrome.google.com",
+        "text": "This extension inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.",
+        "thumb_height": 128,
+        "thumb_url": "https:\/\/lh4.googleusercontent.com\/LBHAExdeQc-7JaoM1qIc1ZUeyLfZ2TbQM-m066XfvGpqVA0ApAwKwKwFWCwIR3BD9TseI-qk",
+        "thumb_width": 128,
+        "title": "Pesticide for Chrome",
+        "title_link": "https:\/\/chrome.google.com\/webstore\/detail\/pesticide-for-chrome\/bblbgcheenepgnnajgfpiicnbbdmmooh?hl=en-US"
+      }
+    ],
+    "datetime": "2017-06-17T13:34:08Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "Pesticide: very useful chrome extension for debugging CSS <https:\/\/chrome.google.com\/webstore\/detail\/pesticide-for-chrome\/bblbgcheenepgnnajgfpiicnbbdmmooh?hl=en-US>",
+    "ts": "1497706448.468141",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Buy Adobe Muse CC | Download HTML5 web design software free trial",
+        "from_url": "https:\/\/www.adobe.com\/products\/muse.html",
+        "id": 1,
+        "service_icon": "https:\/\/wwwimages2.adobe.com\/include\/img\/favicon.ico",
+        "service_name": "adobe.com",
+        "text": "Create gorgeous HTML5 websites without writing code that dynamically scale to any device with Adobe Muse CC. Join today.",
+        "title": "Buy Adobe Muse CC | Download HTML5 web design software free trial",
+        "title_link": "https:\/\/www.adobe.com\/products\/muse.html"
+      }
+    ],
+    "datetime": "2017-06-17T14:41:56Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "<https:\/\/www.adobe.com\/products\/muse.html>",
+    "ts": "1497710516.696308",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Adobe Experience Design CC (Beta) | Prototyping &amp; Wireframing Tool",
+        "from_url": "https:\/\/www.adobe.com\/products\/experience-design.html",
+        "id": 1,
+        "service_icon": "https:\/\/wwwimages2.adobe.com\/include\/img\/favicon.ico",
+        "service_name": "adobe.com",
+        "text": "Design and prototype websites and mobile apps with Adobe Experience Design CC (Beta), the first all-in-one solution for UX designers. Download now to get started.",
+        "title": "Adobe Experience Design CC (Beta) | Prototyping &amp; Wireframing Tool",
+        "title_link": "https:\/\/www.adobe.com\/products\/experience-design.html"
+      }
+    ],
+    "datetime": "2017-06-17T14:42:23Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "<https:\/\/www.adobe.com\/products\/experience-design.html>",
+    "ts": "1497710543.697731",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Wireframe.cc: Wireframe.cc - minimal wireframing tool",
+        "from_url": "https:\/\/wireframe.cc\/fcf5qn",
+        "id": 1,
+        "image_bytes": 109360,
+        "image_height": 250,
+        "image_url": "https:\/\/wireframe.cc\/images\/screen-shot-landing.png",
+        "image_width": 491,
+        "service_icon": "https:\/\/wireframe.cc\/favicon.ico",
+        "service_name": "Wireframe.cc",
+        "text": "A simple wireframing tool that doesn't get in your way. Create and share simple wireframes of websites and mobile apps.",
+        "title": "Wireframe.cc - minimal wireframing tool",
+        "title_link": "https:\/\/wireframe.cc\/fcf5qn"
+      }
+    ],
+    "datetime": "2017-06-17T14:55:21Z",
+    "name": "tmurphy",
+    "real_name": "Thomas Murphy",
+    "text": "<https:\/\/wireframe.cc\/fcf5qn>",
+    "ts": "1497711321.740555",
+    "type": "message",
+    "user": "U5DJQBFDX"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": " CSS \u00b7 Bootstrap ",
+        "from_url": "https:\/\/getbootstrap.com\/css\/#grid",
+        "id": 1,
+        "service_icon": "https:\/\/getbootstrap.com\/favicon.ico",
+        "service_name": "getbootstrap.com",
+        "text": "Bootstrap, a sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.",
+        "title": " CSS \u00b7 Bootstrap ",
+        "title_link": "https:\/\/getbootstrap.com\/css\/#grid"
+      }
+    ],
+    "datetime": "2017-06-17T15:26:16Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "<https:\/\/getbootstrap.com\/css\/#grid>",
+    "ts": "1497713176.855449",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "datetime": "2017-06-17T16:07:42Z",
+    "name": "edorsini",
+    "real_name": "Ed Orsini",
+    "text": "Melissa slacked this out and you may find this very useful:",
+    "ts": "1497715662.010869",
+    "type": "message",
+    "user": "U5E5649M2"
+  },
+  {
+    "bot_id": null,
+    "datetime": "2017-06-17T16:09:50Z",
+    "display_as_bot": false,
+    "file": {
+      "channels": [
+        "C58TT4H2R"
+      ],
+      "comments_count": 1,
+      "created": 1497708961,
+      "display_as_bot": false,
+      "edit_link": "https:\/\/unhcodingbootcamp.slack.com\/files\/U5DDYGGHW\/F5V8JMANP\/html5boilerplate.html\/edit",
+      "editable": true,
+      "external_type": "",
+      "filetype": "html",
+      "groups": [
+
+      ],
+      "id": "F5V8JMANP",
+      "ims": [
+
+      ],
+      "initial_comment": {
+        "comment": "I have this if you want to share it with the group. It's an HTML5 boilerplate. Saves lots of time...",
+        "created": 1497708961,
+        "id": "Fc5VARJXGA",
+        "is_intro": true,
+        "timestamp": 1497708961,
+        "user": "U5DDYGGHW"
+      },
+      "is_external": false,
+      "is_public": true,
+      "lines": 12,
+      "lines_more": 7,
+      "mimetype": "text\/plain",
+      "mode": "snippet",
+      "name": "html5boilerplate.html",
+      "permalink": "https:\/\/unhcodingbootcamp.slack.com\/files\/U5DDYGGHW\/F5V8JMANP\/html5boilerplate.html",
+      "permalink_public": "https:\/\/slack-files.com\/T4THRLVNH-F5V8JMANP-657c536242",
+      "pretty_type": "HTML",
+      "preview": "<!DOCTYPE html>\n<html>\n\t<head>\n\t\t<title>Add Title Here<\/title>\n\t\t<meta charset=\"utf-8\" \/>",
+      "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-meta\">&lt;!DOCTYPE html&gt;<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">html<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><\/pre><\/div>\n<div><pre>\t<span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">head<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><\/pre><\/div>\n<div><pre>\t\t<span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">title<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span>Add Title Here<span class=\"cm-tag cm-bracket\">&lt;\/<\/span><span class=\"cm-tag\">title<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><\/pre><\/div>\n<div><pre>\t\t<span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">meta<\/span> <span class=\"cm-attribute\">charset<\/span>=<span class=\"cm-string\">&quot;utf-8&quot;<\/span> <span class=\"cm-tag cm-bracket\">\/&gt;<\/span><\/pre><\/div>\n<\/div>\n<\/div>\n",
+      "preview_is_truncated": false,
+      "public_url_shared": false,
+      "reactions": [
+        {
+          "count": 2,
+          "name": "+1",
+          "users": [
+            "U5MJF0C20",
+            "U5H1EEQAE"
+          ]
+        }
+      ],
+      "size": 290,
+      "timestamp": 1497708961,
+      "title": "html5boilerplate.html",
+      "url_private": "https:\/\/files.slack.com\/files-pri\/T4THRLVNH-F5V8JMANP\/html5boilerplate.html",
+      "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4THRLVNH-F5V8JMANP\/download\/html5boilerplate.html",
+      "user": "U5DDYGGHW",
+      "username": ""
+    },
+    "name": "edorsini",
+    "real_name": "Ed Orsini",
+    "subtype": "file_share",
+    "text": "<@U5E5649M2> shared a file: <https:\/\/unhcodingbootcamp.slack.com\/files\/U5DDYGGHW\/F5V8JMANP\/html5boilerplate.html|html5boilerplate.html> and commented: I have this if you want to share it with the group. It's an HTML5 boilerplate. Saves lots of time...",
+    "ts": "1497715790.018882",
+    "type": "message",
+    "upload": false,
+    "user": "U5E5649M2",
+    "username": "edorsini"
+  },
+  {
+    "datetime": "2017-06-17T18:17:42Z",
+    "name": "malley73",
+    "real_name": "Michael Alley",
+    "text": "To get the resolution of your mobile device: <http:\/\/www.whatismyscreenresolution.com|www.whatismyscreenresolution.com>",
+    "ts": "1497723462.490115",
+    "type": "message",
+    "user": "U5NC15M7F"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Colorsublime",
+        "from_url": "http:\/\/colorsublime.com\/",
+        "id": 1,
+        "service_icon": "http:\/\/colorsublime.com\/favicon.ico",
+        "service_name": "colorsublime.com",
+        "text": "Color your Sublime Text editor trying your favorite theme online before downloading it for free",
+        "thumb_height": 100,
+        "thumb_url": "http:\/\/colorsublime.com\/img\/share.png",
+        "thumb_width": 100,
+        "title": "Colorsublime",
+        "title_link": "http:\/\/colorsublime.com\/"
+      }
+    ],
+    "datetime": "2017-06-19T17:46:16Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "I recommend you change your Sublime theme with this package <http:\/\/colorsublime.com\/> it\u2019s not necessary, but changing the theme helps to make the editor feel like your own",
+    "ts": "1497894376.216364",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Launch Sublime Text 3 from the command line",
+        "from_url": "http:\/\/olivierlacan.com\/posts\/launch-sublime-text-3-from-the-command-line\/",
+        "id": 1,
+        "image_bytes": 69034,
+        "image_height": 250,
+        "image_url": "http:\/\/olivierlacan.com\/assets\/olivier_lacan_landscape_portrait.jpg",
+        "image_width": 478,
+        "service_name": "olivierlacan.com",
+        "text": "Thoughts on Ruby, Rails, open source software, programming, and life from Olivier Lacan",
+        "title": "Launch Sublime Text 3 from the command line",
+        "title_link": "http:\/\/olivierlacan.com\/posts\/launch-sublime-text-3-from-the-command-line\/",
+        "ts": 1390255200
+      }
+    ],
+    "datetime": "2017-06-20T23:47:42Z",
+    "name": "edorsini",
+    "real_name": "Ed Orsini",
+    "text": "<http:\/\/olivierlacan.com\/posts\/launch-sublime-text-3-from-the-command-line\/>",
+    "ts": "1498002462.321006",
+    "type": "message",
+    "user": "U5E5649M2"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Bootstrap Grid",
+        "from_url": "https:\/\/chrome.google.com\/webstore\/detail\/bootstrap-grid\/gmoboekiodfcajledjijioecfimliddo?hl=en",
+        "id": 1,
+        "service_icon": "https:\/\/www.google.com\/images\/icons\/product\/chrome_web_store-32.png",
+        "service_name": "chrome.google.com",
+        "text": "The best friend of every Bootstrap user. Get a grid overlay on your website with a single click.",
+        "thumb_height": 128,
+        "thumb_url": "https:\/\/lh6.googleusercontent.com\/rM-0qKX8LHH4A8jrSTr8W0G2QX-xZ9gmZ50Xr8Gx_qx-dB6Y8pZ9rMPBGnrYTeFF4HFhwb26F2U",
+        "thumb_width": 128,
+        "title": "Bootstrap Grid",
+        "title_link": "https:\/\/chrome.google.com\/webstore\/detail\/bootstrap-grid\/gmoboekiodfcajledjijioecfimliddo?hl=en"
+      }
+    ],
+    "datetime": "2017-06-22T03:12:47Z",
+    "name": "khayes8",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U5MJF0C20"
+        ]
+      }
+    ],
+    "real_name": "Kelsey Hayes",
+    "text": "<https:\/\/chrome.google.com\/webstore\/detail\/bootstrap-grid\/gmoboekiodfcajledjijioecfimliddo?hl=en> a tool I've been using to help me with the second half of the homework",
+    "ts": "1498101167.753387",
+    "type": "message",
+    "user": "U5G4U43FH"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "SitePoint: Truthy and Falsy: When All is Not Equal in JavaScript \u2014 SitePoint",
+        "from_url": "https:\/\/www.sitepoint.com\/javascript-truthy-falsy\/",
+        "id": 1,
+        "image_bytes": 21645,
+        "image_height": 250,
+        "image_url": "https:\/\/www.sitepoint.com\/wp-content\/themes\/sitepoint\/assets\/images\/icon.javascript.png",
+        "image_width": 250,
+        "service_icon": "https:\/\/www.sitepoint.com\/wp-content\/themes\/sitepoint\/assets\/images\/apple-touch-icon-57x57-precomposed.png",
+        "service_name": "SitePoint",
+        "text": "Anything in JavaScript can be considered to be either truthy or falsy. Craig provides a useful guide explaining what they are and the bizarre rules that apply when they're compared.",
+        "title": "Truthy and Falsy: When All is Not Equal in JavaScript \u2014 SitePoint",
+        "title_link": "https:\/\/www.sitepoint.com\/javascript-truthy-falsy\/",
+        "ts": 1246436010
+      }
+    ],
+    "datetime": "2017-06-22T22:51:59Z",
+    "name": "walter",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U5E5649M2"
+        ]
+      }
+    ],
+    "real_name": "Walter Augustine",
+    "text": "<https:\/\/www.sitepoint.com\/javascript-truthy-falsy\/>",
+    "ts": "1498171919.929821",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "datetime": "2017-06-24T14:00:14Z",
+    "name": "walter",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1::skin-tone-3",
+        "users": [
+          "U5DJQBFDX"
+        ]
+      }
+    ],
+    "real_name": "Walter Augustine",
+    "text": "<https:\/\/docs.emmet.io\/>\n<https:\/\/docs.emmet.io\/cheat-sheet\/>",
+    "ts": "1498312814.846390",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "datetime": "2017-06-27T23:13:14Z",
+    "edited": {
+      "ts": "1498605204.000000",
+      "user": "U5MJF0C20"
+    },
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "difference between `textContent` and `innerHTML`\n<https:\/\/stackoverflow.com\/questions\/21311299\/nodevalue-vs-innerhtml-and-textcontent-how-to-choose>",
+    "ts": "1498605194.982944",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "datetime": "2017-06-28T00:12:10Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "<https:\/\/api.jquery.com\/>",
+    "ts": "1498608730.564666",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "GitHub: standard\/eslint-config-standard",
+        "from_url": "https:\/\/github.com\/standard\/eslint-config-standard",
+        "id": 1,
+        "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+        "service_name": "GitHub",
+        "text": "eslint-config-standard - ESLint Config for JavaScript Standard Style",
+        "thumb_height": 209,
+        "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/29208316?v=3&s=400",
+        "thumb_width": 209,
+        "title": "standard\/eslint-config-standard",
+        "title_link": "https:\/\/github.com\/standard\/eslint-config-standard"
+      }
+    ],
+    "datetime": "2017-07-11T20:10:00Z",
+    "edited": {
+      "ts": "1499803860.000000",
+      "user": "U5MJF0C20"
+    },
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "anyone using eslint, I made a mistake recommending airbnb as a config. use Standard JS instead\n<https:\/\/github.com\/standard\/eslint-config-standard>\n\nalso on the topic of js standards, I recommend those not using a linter to follow the  rules of Standard JS when writing JavaScript\n<https:\/\/standardjs.com\/rules.html>",
+    "ts": "1499803800.991785",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "datetime": "2017-07-15T13:29:49Z",
+    "name": "rblair",
+    "real_name": "Ross Blair",
+    "text": "Here is a cheat sheet for JQuery v Vanilla JS commonly used methods and such. \n<https:\/\/gist.github.com\/harmstyler\/7468978>",
+    "ts": "1500125389.243657",
+    "type": "message",
+    "user": "U5EUTNWNQ"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "WakaTime: Metrics for programmers automatically generated from your coding activity",
+        "from_url": "https:\/\/wakatime.com\/",
+        "id": 1,
+        "image_bytes": 198930,
+        "image_height": 250,
+        "image_url": "https:\/\/wakatime.com\/static\/img\/fitbit-for-your-programming.png",
+        "image_width": 477,
+        "service_icon": "https:\/\/wakatime.com\/static\/img\/apple-touch-icon-57x57.png",
+        "service_name": "WakaTime",
+        "text": "Open-source text editor plugins for metrics about your programming.",
+        "title": "Metrics for programmers automatically generated from your coding activity",
+        "title_link": "https:\/\/wakatime.com\/"
+      }
+    ],
+    "datetime": "2017-07-15T15:44:35Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "cool code time tracker\n<https:\/\/wakatime.com\/>",
+    "ts": "1500133475.878977",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "multiple ajax calls wait for last one to load, then execute",
+        "from_url": "https:\/\/stackoverflow.com\/questions\/14465177\/multiple-ajax-calls-wait-for-last-one-to-load-then-execute",
+        "id": 1,
+        "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+        "service_name": "stackoverflow.com",
+        "text": "I have multiple ajax queries running at the same time, and I want them to wait for the last one to return, and then run the success handler on all of the ajax calls. For a simplified example, cons...",
+        "thumb_height": 316,
+        "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+        "thumb_width": 316,
+        "title": "multiple ajax calls wait for last one to load, then execute",
+        "title_link": "https:\/\/stackoverflow.com\/questions\/14465177\/multiple-ajax-calls-wait-for-last-one-to-load-then-execute"
+      }
+    ],
+    "datetime": "2017-07-15T17:08:29Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "<https:\/\/stackoverflow.com\/questions\/14465177\/multiple-ajax-calls-wait-for-last-one-to-load-then-execute>",
+    "ts": "1500138509.314680",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "CSS Guidelines",
+        "from_url": "https:\/\/cssguidelin.es\/",
+        "id": 1,
+        "image_bytes": 16599,
+        "image_height": 250,
+        "image_url": "https:\/\/cssguidelin.es\/twitter-card.png",
+        "image_width": 750,
+        "service_icon": "https:\/\/cssguidelin.es\/icon.png",
+        "service_name": "cssguidelin.es",
+        "text": "High-level advice and guidelines for writing sane, manageable, scalable CSS",
+        "title": "CSS Guidelines",
+        "title_link": "https:\/\/cssguidelin.es\/"
+      }
+    ],
+    "datetime": "2017-07-18T21:16:35Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "there are coding standards for CSS too. I recommend this style guide\n<https:\/\/cssguidelin.es\/>",
+    "ts": "1500412595.167324",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "You Might Not Need jQuery",
+        "from_url": "http:\/\/youmightnotneedjquery.com\/",
+        "id": 1,
+        "service_icon": "http:\/\/static.hubspot.com\/favicon.ico",
+        "service_name": "youmightnotneedjquery.com",
+        "text": "Examples of how to do common event, element, ajax and utility operations with plain javascript.",
+        "title": "You Might Not Need jQuery",
+        "title_link": "http:\/\/youmightnotneedjquery.com\/"
+      },
+      {
+        "fallback": "You Might Not Need JavaScript",
+        "from_url": "http:\/\/youmightnotneedjs.com\/",
+        "id": 2,
+        "image_bytes": 49284,
+        "image_height": 250,
+        "image_url": "http:\/\/youmightnotneedjs.com\/shareimg.jpg",
+        "image_width": 418,
+        "service_name": "youmightnotneedjs.com",
+        "text": "Examples of common UI elements and interactions with HTML and CSS alone.",
+        "title": "You Might Not Need JavaScript",
+        "title_link": "http:\/\/youmightnotneedjs.com\/"
+      }
+    ],
+    "datetime": "2017-07-18T21:26:28Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "don\u2019t rely on any one tool\/library\/framework. they won\u2019t always be around. learn the fundamentals, and you won\u2019t have to retrain every few years\n<http:\/\/youmightnotneedjquery.com\/>\n<http:\/\/youmightnotneedjs.com\/>",
+    "ts": "1500413188.438829",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "datetime": "2017-07-20T19:31:50Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "you all should be using GitGutter\n<https:\/\/packagecontrol.io\/packages\/GitGutter>",
+    "ts": "1500579110.775443",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Dash for macOS - API Documentation Browser, Snippet Manager - Kapeli",
+        "from_url": "https:\/\/kapeli.com\/dash",
+        "id": 1,
+        "service_icon": "https:\/\/kapeli.com\/favicon.ico",
+        "service_name": "kapeli.com",
+        "text": "Dash is an API Documentation Browser and Code Snippet Manager. Dash searches offline documentation of 150+ APIs and stores snippets of code. You can also generate your own documentation sets.",
+        "title": "Dash for macOS - API Documentation Browser, Snippet Manager - Kapeli",
+        "title_link": "https:\/\/kapeli.com\/dash"
+      },
+      {
+        "fallback": "DevDocs",
+        "from_url": "https:\/\/devdocs.io\/",
+        "id": 2,
+        "service_icon": "https:\/\/cdn.devdocs.io\/images\/apple-icon-72.png",
+        "service_name": "DevDocs",
+        "text": "DevDocs is an API documentation browser that combines 100+ docs in a single UI with offline mode, instant search, keyboard shortcuts, and more.",
+        "thumb_height": 128,
+        "thumb_url": "https:\/\/cdn.devdocs.io\/images\/icon-128.png",
+        "thumb_width": 128,
+        "title": "DevDocs",
+        "title_link": "https:\/\/devdocs.io\/"
+      }
+    ],
+    "datetime": "2017-07-24T18:06:33Z",
+    "edited": {
+      "ts": "1500919832.000000",
+      "user": "U5MJF0C20"
+    },
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "Yo dog, I heard you like docs.\nFor Sublime integration, use <https:\/\/kapeli.com\/dash>\nFor a stand-alone site, use <https:\/\/devdocs.io\/>",
+    "ts": "1500919593.899208",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Trello",
+        "from_url": "https:\/\/trello.com\/",
+        "id": 1,
+        "image_bytes": 856998,
+        "image_height": 250,
+        "image_url": "https:\/\/d2k1ftgv7pobq7.cloudfront.net\/meta\/p\/res\/images\/fb4de993e22034b76539da073ea8d35c\/home-hero.png",
+        "image_width": 449,
+        "service_icon": "https:\/\/trello.com\/favicon.ico",
+        "service_name": "trello.com",
+        "text": "Infinitely flexible. Incredibly easy to use. Great mobile apps. It's free. Trello keeps track of everything, from the big picture to the minute details.",
+        "title": "Trello",
+        "title_link": "https:\/\/trello.com\/"
+      }
+    ],
+    "datetime": "2017-07-25T16:02:50Z",
+    "name": "walter",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U4SQL1XL1"
+        ]
+      }
+    ],
+    "real_name": "Walter Augustine",
+    "text": "Trello is a useful project management tool that can help you organize your project and assign work as a team\n<https:\/\/trello.com\/>",
+    "ts": "1500998570.532801",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Grid Garden",
+        "from_url": "http:\/\/cssgridgarden.com\/",
+        "id": 1,
+        "image_bytes": 146897,
+        "image_height": 250,
+        "image_url": "http:\/\/cssgridgarden.com\/images\/screenshot.png",
+        "image_width": 466,
+        "service_name": "cssgridgarden.com",
+        "text": "A game for learning CSS grid layout",
+        "title": "Grid Garden",
+        "title_link": "http:\/\/cssgridgarden.com\/"
+      }
+    ],
+    "datetime": "2017-07-25T22:25:44Z",
+    "name": "rblair",
+    "real_name": "Ross Blair",
+    "text": "<http:\/\/cssgridgarden.com\/>",
+    "ts": "1501021544.832216",
+    "type": "message",
+    "user": "U5EUTNWNQ"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Which is better, number(x) or parseFloat(x)?",
+        "from_url": "https:\/\/stackoverflow.com\/questions\/12227594\/which-is-better-numberx-or-parsefloatx",
+        "id": 1,
+        "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+        "service_name": "stackoverflow.com",
+        "text": "Which is better? I'm asking this just for the sake of shaving a few bytes, as I can use +x instead of number(x). Does parsefloat do something better? EDIT: Verdict - parseFloat. Even if using +...",
+        "thumb_height": 316,
+        "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+        "thumb_width": 316,
+        "title": "Which is better, number(x) or parseFloat(x)?",
+        "title_link": "https:\/\/stackoverflow.com\/questions\/12227594\/which-is-better-numberx-or-parsefloatx"
+      }
+    ],
+    "datetime": "2017-07-26T01:28:26Z",
+    "name": "malley73",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U5E5649M2"
+        ]
+      }
+    ],
+    "real_name": "Michael Alley",
+    "text": "<https:\/\/stackoverflow.com\/questions\/12227594\/which-is-better-numberx-or-parsefloatx>",
+    "ts": "1501032506.548158",
+    "type": "message",
+    "user": "U5NC15M7F"
+  },
+  {
+    "attachments": [
+      {
+        "author_link": "https:\/\/www.youtube.com\/channel\/UCtxCXg-UvSnTKPOzLH4wJaQ",
+        "author_name": "Coding Tech",
+        "fallback": "YouTube Video: CSS Grid Changes EVERYTHING - Amazing Presentation",
+        "from_url": "https:\/\/www.youtube.com\/watch?v=7kVeCqQCxlk",
+        "id": 1,
+        "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+        "service_name": "YouTube",
+        "service_url": "https:\/\/www.youtube.com\/",
+        "thumb_height": 360,
+        "thumb_url": "https:\/\/i.ytimg.com\/vi\/7kVeCqQCxlk\/hqdefault.jpg",
+        "thumb_width": 480,
+        "title": "CSS Grid Changes EVERYTHING - Amazing Presentation",
+        "title_link": "https:\/\/www.youtube.com\/watch?v=7kVeCqQCxlk",
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/7kVeCqQCxlk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+        "video_html_height": 225,
+        "video_html_width": 400
+      }
+    ],
+    "datetime": "2017-07-26T14:17:29Z",
+    "name": "walter",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "100",
+        "users": [
+          "U5DJQBFDX"
+        ]
+      }
+    ],
+    "real_name": "Walter Augustine",
+    "text": "Nice talk on CSS grid\n<https:\/\/www.youtube.com\/watch?v=7kVeCqQCxlk>",
+    "ts": "1501078649.961359",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "bot_id": null,
+    "datetime": "2017-07-26T14:43:11Z",
+    "display_as_bot": false,
+    "file": {
+      "channels": [
+        "C58TT4H2R"
+      ],
+      "comments_count": 1,
+      "created": 1501080191,
+      "display_as_bot": false,
+      "edit_link": "https:\/\/unhcodingbootcamp.slack.com\/files\/U5MJF0C20\/F6DCB94NM\/how-to-linter.md\/edit",
+      "editable": true,
+      "external_type": "",
+      "filetype": "markdown",
+      "groups": [
+
+      ],
+      "id": "F6DCB94NM",
+      "ims": [
+
+      ],
+      "initial_comment": {
+        "comment": "I wrote up a guide on how to set up eslint.",
+        "created": 1501080191,
+        "id": "Fc6F1HSPQF",
+        "is_intro": true,
+        "timestamp": 1501080191,
+        "user": "U5MJF0C20"
+      },
+      "is_external": false,
+      "is_public": true,
+      "lines": 22,
+      "lines_more": 17,
+      "mimetype": "text\/plain",
+      "mode": "snippet",
+      "name": "how-to-linter.md",
+      "permalink": "https:\/\/unhcodingbootcamp.slack.com\/files\/U5MJF0C20\/F6DCB94NM\/how-to-linter.md",
+      "permalink_public": "https:\/\/slack-files.com\/T4THRLVNH-F6DCB94NM-89278ece1d",
+      "pretty_type": "Markdown (raw)",
+      "preview": "# How to install eslint\n1. Run `npm install -g eslint`\n2. Run `npm install -g eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node`\n3. Run `touch .eslintrc` in the root directory and paste:\n```",
+      "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-header cm-header-1\"># <\/span><span class=\"cm-header cm-header-1\">How<\/span><span class=\"cm-header cm-header-1\"> <\/span><span class=\"cm-header cm-header-1\">to<\/span><span class=\"cm-header cm-header-1\"> <\/span><span class=\"cm-header cm-header-1\">install<\/span><span class=\"cm-header cm-header-1\"> <\/span><span class=\"cm-header cm-header-1\">eslint<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-variable-2\">1. <\/span><span class=\"cm-variable-2\">Run<\/span><span class=\"cm-variable-2\"><\/span><span class=\"cm-variable-2\"> <\/span><span class=\"cm-comment cm-variable-2\">`<\/span><span class=\"cm-comment cm-variable-2\">npm<\/span><span class=\"cm-comment cm-variable-2\"> <\/span><span class=\"cm-comment cm-variable-2\">install<\/span><span class=\"cm-comment cm-variable-2\"> <\/span><span class=\"cm-comment cm-variable-2\">-g<\/span><span class=\"cm-comment cm-variable-2\"> <\/span><span class=\"cm-comment cm-variable-2\">eslint<\/span><span class=\"cm-comment cm-variable-2\">`<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-variable-2\">2. <\/span><span class=\"cm-variable-2\">Run<\/span><span class=\"cm-variable-2\"><\/span><span class=\"cm-variable-2\"> <\/span><span class=\"cm-comment cm-variable-2\">`<\/span><span class=\"cm-comment cm-variable-2\">npm<\/span><span class=\"cm-comment cm-variable-2\"> <\/span><span class=\"cm-comment cm-variable-2\">install<\/span><span class=\"cm-comment cm-variable-2\"> <\/span><span class=\"cm-comment cm-variable-2\">-g<\/span><span class=\"cm-comment cm-variable-2\"> <\/span><span class=\"cm-comment cm-variable-2\">eslint-config-standard<\/span><span class=\"cm-comment cm-variable-2\"> <\/span><span class=\"cm-comment cm-variable-2\">eslint-plugin-standard<\/span><span class=\"cm-comment cm-variable-2\"> <\/span><span class=\"cm-comment cm-variable-2\">eslint-plugin-promise<\/span><span class=\"cm-comment cm-variable-2\"> <\/span><span class=\"cm-comment cm-variable-2\">eslint-plugin-import<\/span><span class=\"cm-comment cm-variable-2\"> <\/span><span class=\"cm-comment cm-variable-2\">eslint-plugin-node<\/span><span class=\"cm-comment cm-variable-2\">`<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-variable-2\">3. <\/span><span class=\"cm-variable-2\">Run<\/span><span class=\"cm-variable-2\"><\/span><span class=\"cm-variable-2\"> <\/span><span class=\"cm-comment cm-variable-2\">`<\/span><span class=\"cm-comment cm-variable-2\">touch<\/span><span class=\"cm-comment cm-variable-2\"> <\/span><span class=\"cm-comment cm-variable-2\">.eslintrc<\/span><span class=\"cm-comment cm-variable-2\">`<\/span><span class=\"cm-variable-2\"> <\/span><span class=\"cm-variable-2\">in<\/span><span class=\"cm-variable-2\"> <\/span><span class=\"cm-variable-2\">the<\/span><span class=\"cm-variable-2\"> <\/span><span class=\"cm-variable-2\">root<\/span><span class=\"cm-variable-2\"> <\/span><span class=\"cm-variable-2\">directory<\/span><span class=\"cm-variable-2\"> <\/span><span class=\"cm-variable-2\">and<\/span><span class=\"cm-variable-2\"> <\/span><span class=\"cm-variable-2\">paste:<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-comment\">```<\/span><\/pre><\/div>\n<\/div>\n<\/div>\n",
+      "preview_is_truncated": false,
+      "public_url_shared": false,
+      "size": 640,
+      "timestamp": 1501080191,
+      "title": "how-to-linter.md",
+      "url_private": "https:\/\/files.slack.com\/files-pri\/T4THRLVNH-F6DCB94NM\/how-to-linter.md",
+      "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4THRLVNH-F6DCB94NM\/download\/how-to-linter.md",
+      "user": "U5MJF0C20",
+      "username": ""
+    },
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "subtype": "file_share",
+    "text": "<@U5MJF0C20> uploaded a file: <https:\/\/unhcodingbootcamp.slack.com\/files\/U5MJF0C20\/F6DCB94NM\/how-to-linter.md|how-to-linter.md> and commented: I wrote up a guide on how to set up eslint.",
+    "ts": "1501080191.957724",
+    "type": "message",
+    "upload": true,
+    "user": "U5MJF0C20",
+    "username": "walter"
+  },
+  {
+    "datetime": "2017-07-28T17:34:12Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "the PowerCursors sublime package gives your multi select super powers\n<https:\/\/packagecontrol.io\/packages\/PowerCursors>",
+    "ts": "1501263252.823524",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Code Envato Tuts+: Team Collaboration With GitHub",
+        "from_url": "https:\/\/code.tutsplus.com\/articles\/team-collaboration-with-github--net-29876",
+        "id": 1,
+        "service_icon": "https:\/\/static.tutsplus.com\/assets\/apple-touch-icon-3a37a429b4f7cd590a0440a66900a8c6.png",
+        "service_name": "Code Envato Tuts+",
+        "text": "GitHub has become the corner stone for all things open source software. Developers love it, collaborate on it and are constantly building awesome projects through it. Apart from hosting our code,...",
+        "thumb_height": 200,
+        "thumb_url": "https:\/\/cdn.tutsplus.com\/net\/authors\/sayanee-basu\/github-team-preview.jpg",
+        "thumb_width": 200,
+        "title": "Team Collaboration With GitHub",
+        "title_link": "https:\/\/code.tutsplus.com\/articles\/team-collaboration-with-github--net-29876"
+      }
+    ],
+    "datetime": "2017-07-28T17:45:55Z",
+    "name": "walter",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U5F6ANCET"
+        ]
+      }
+    ],
+    "real_name": "Walter Augustine",
+    "text": "Good guide on how to collaborate on Github\n<https:\/\/code.tutsplus.com\/articles\/team-collaboration-with-github--net-29876>",
+    "ts": "1501263955.186614",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "            GitHub Flow \u2013          Scott Chacon   ",
+        "from_url": "http:\/\/scottchacon.com\/2011\/08\/31\/github-flow.html",
+        "id": 1,
+        "service_icon": "http:\/\/scottchacon.com\/apple-touch-icon.png",
+        "service_name": "scottchacon.com",
+        "text": "Some information by and about Scott Chacon",
+        "title": "            GitHub Flow \u2013          Scott Chacon   ",
+        "title_link": "http:\/\/scottchacon.com\/2011\/08\/31\/github-flow.html"
+      }
+    ],
+    "datetime": "2017-07-28T17:54:06Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "Another on the github-flow you should all use\n<http:\/\/scottchacon.com\/2011\/08\/31\/github-flow.html>",
+    "ts": "1501264446.442554",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Flexbox Froggy",
+        "from_url": "http:\/\/flexboxfroggy.com\/",
+        "id": 1,
+        "image_bytes": 260918,
+        "image_height": 250,
+        "image_url": "http:\/\/flexboxfroggy.com\/images\/screenshot.png",
+        "image_width": 485,
+        "service_name": "flexboxfroggy.com",
+        "text": "A game for learning CSS flexbox",
+        "title": "Flexbox Froggy",
+        "title_link": "http:\/\/flexboxfroggy.com\/"
+      }
+    ],
+    "datetime": "2017-07-28T21:02:57Z",
+    "name": "walter",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U5F6ANCET"
+        ]
+      }
+    ],
+    "real_name": "Walter Augustine",
+    "text": "good game for learning Flexbox, made by the people who made CSS Gridgarden\n<http:\/\/flexboxfroggy.com\/>",
+    "ts": "1501275777.729395",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Wireframe.cc: Wireframe.cc - minimal wireframing tool",
+        "from_url": "https:\/\/wireframe.cc\/",
+        "id": 1,
+        "image_bytes": 109360,
+        "image_height": 250,
+        "image_url": "https:\/\/wireframe.cc\/images\/screen-shot-landing.png",
+        "image_width": 491,
+        "service_icon": "https:\/\/wireframe.cc\/favicon.ico",
+        "service_name": "Wireframe.cc",
+        "text": "A simple wireframing tool that doesn't get in your way. Create and share simple wireframes of websites and mobile apps.",
+        "title": "Wireframe.cc - minimal wireframing tool",
+        "title_link": "https:\/\/wireframe.cc\/"
+      }
+    ],
+    "datetime": "2017-07-29T17:09:08Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "Nice and free wireframe tool\n<https:\/\/wireframe.cc\/>",
+    "ts": "1501348148.088515",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "author_name": "Jordan Crook",
+        "fallback": "TechCrunch Link: With 200M daily users, Giphy will soon test sponsored&nbsp;GIFs",
+        "from_url": "https:\/\/techcrunch.com\/2017\/07\/31\/with-200m-daily-users-giphy-will-soon-test-sponsored-gifs\/",
+        "id": 1,
+        "service_icon": "https:\/\/s0.wp.com\/wp-content\/themes\/vip\/techcrunch-2013\/assets\/images\/favicon.ico",
+        "service_name": "TechCrunch",
+        "service_url": "http:\/\/techcrunch.com",
+        "text": "And it&rsquo;s about time.\nGiphy, the four-year-old search engine for GIFs, is going to finally start testing monetization.\nAccording to a source close to the company, Giphy will begin testing sponsored GIFs within messaging experiences. This means that users who search for GIFs may be served a sponsored GIF within the messaging tab.\nThere are some obvious use-cases here: A search for &ldquo;Monday&rdquo; or &ldquo;morning&rdquo; might turn up a Starbucks GIF. But there is also an opportunity for brands, especially movies and TV shows (which makes up a huge portion of Giphy&rsquo;s content), to work their existing content into people&rsquo;s messages.\nStructurally, this isn&rsquo;t too different from what Google does with search terms. If you search for &ldquo;Walmart,&rdquo; you&rsquo;ll more than likely see a sponsored listing for both Walmart and Target.\nWith Giphy, however, searches are rarely for specific brands but rather based around certain actions, reactions or emotions. With the forthcoming sponsored messaging product, a search for &ldquo;Wooo&rdquo; might turn up a GIF of someone pouring Jose Cuervo shots. A search for &ldquo;cheers&rdquo; might show folks clinking two Budweiser beer bottles together. (If Netflix doesn&rsquo;t buy ads against &ldquo;chill,&rdquo; I&rsquo;ll be really disappointed.)\nWhat&rsquo;s more, sponsored content on Giphy would function in a way similar to Snapchat&rsquo;s sponsored face filters. Even if it includes branded content, the fact that it comes from a friend makes it worth watching and makes it easier to connect with.\nThe same source also said that Giphy is now seeing 200 million daily active users between both the API and website, with around 250 million monthly active users on the website, as well as Giphy&rsquo;s owned and operated integrations. That means the majority of Giphy&rsquo;s users are interacting with the service every single day.\nNeither my source, nor Giphy, would confirm a timeline for the launch of ad products. That said, Giphy COO Adam Leibsohn did confirm that the company has shifted focus from growth to building ad products, without adding much detail on what those products might look like.\n&ldquo;With GIPHY Studios, we&rsquo;ve been executing on creative partnerships for over a year,&rdquo; said Leibsohn. &ldquo;That work helps inform our thinking and exploration around what our ad products will look like.&rdquo;\nI also asked Leibsohn which brands would be the first to test out Giphy&rsquo;s ad products.\n&ldquo;We already work closely with the world&rsquo;s leading brands in content, entertainment, technology and advertising,&rdquo; said Leibsohn. &ldquo;When we&rsquo;re ready to launch our ad products, it naturally follows that we&rsquo;ll be working with our existing partners.&rdquo;\nAs far as testing is concerned, it&rsquo;s unclear which platform Giphy will wade into first. Nor is it clear what sort of a business model sponsored content would take when served on a third-party platform, outside of Giphy&rsquo;s own site and app.\nSlack, iMessage, Facebook Messenger and Twitter are all huge platforms for Giphy, but they may be a little too big to do initial testing. Remember, Giphy is the same company that launches standalone app after standalone app simply to learn what will and won&rsquo;t work with its users.\nStrategically, the best place for Giphy to start testing sponsored content would be Tinder, in my opinion. Tinder has an integration with Giphy that gets a lot of play &mdash; in fact, one of the top 25 most popular Giphy GIFs from last year climbed the charts courtesy of Tinder users.\n\nAnd while Tinder and Giphy are a match made in (user engagement) heaven, it&rsquo;s not as high-stakes as debuting an ad product on a public platform like Twitter, nor is it as tricky or unpredictable as the mostly professional environment of Slack.\nTinder did not immediately respond to a request for comment.\nGiphy has a lot of options when it comes to generating revenue. Alongside selling sponsored content within messaging, the company also sees a ton of traffic to the Giphy website. In fact, Giphy says that more than 50 percent of the people who come to the company&rsquo;s website are coming with the intent to browse.\nThis opens up the opportunity to sell native ads, via search terms, on the website, too.\nPlus, Giphy currently works to &lsquo;live-gif&rsquo; big events like the Oscars, Golden Globes, etc. For now, Giphy&rsquo;s team does this for free, but you can see how they might eventually start inking licensing deals around these events. And that doesn&rsquo;t even include the troves of old content &mdash; think &ldquo;Full House&rdquo; and &ldquo;Seinfeld&rdquo; &mdash; that Giphy turns into GIFs for big broadcast and cable networks.\nWhile many believe that P2P native content will be a huge part of the future of advertising, it hasn&rsquo;t become immediately clear what a successful version of that will actually look like. But, in a relatively short time, Giphy has become an ingrained part of the way we communicate, whether it&rsquo;s in iMessage, on Twitter, Tinder or Slack.\nGiphy picked up $72 million in October 2016, bringing total raised to $150 million at a reported valuation of $600 million.",
+        "thumb_height": 83,
+        "thumb_url": "https:\/\/i0.wp.com\/tctechcrunch2011.files.wordpress.com\/2017\/07\/giphy-21.gif?fit=200%2C150&ssl=1",
+        "thumb_width": 200,
+        "title": "With 200M daily users, Giphy will soon test sponsored\u00a0GIFs",
+        "title_link": "https:\/\/techcrunch.com\/2017\/07\/31\/with-200m-daily-users-giphy-will-soon-test-sponsored-gifs\/"
+      }
+    ],
+    "datetime": "2017-08-01T23:28:49Z",
+    "name": "edorsini",
+    "real_name": "Ed Orsini",
+    "text": "News about Giphy: <https:\/\/techcrunch.com\/2017\/07\/31\/with-200m-daily-users-giphy-will-soon-test-sponsored-gifs\/>",
+    "ts": "1501630129.460340",
+    "type": "message",
+    "user": "U5E5649M2"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "GitHub: getify\/You-Dont-Know-JS",
+        "from_url": "https:\/\/github.com\/getify\/You-Dont-Know-JS",
+        "id": 1,
+        "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+        "service_name": "GitHub",
+        "text": "You-Dont-Know-JS - A book series on JavaScript. @YDKJS on twitter.",
+        "thumb_height": 250,
+        "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/150330?v=4&s=400",
+        "thumb_width": 250,
+        "title": "getify\/You-Dont-Know-JS",
+        "title_link": "https:\/\/github.com\/getify\/You-Dont-Know-JS"
+      }
+    ],
+    "datetime": "2017-08-03T18:00:39Z",
+    "name": "walter",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U5E5649M2"
+        ]
+      }
+    ],
+    "real_name": "Walter Augustine",
+    "text": "Free JS reading\n<https:\/\/github.com\/getify\/You-Dont-Know-JS>",
+    "ts": "1501783239.752373",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "datetime": "2017-08-03T22:59:29Z",
+    "name": "tylerschade",
+    "real_name": "Tyler Schade",
+    "text": "<https:\/\/specificity.keegan.st\/>",
+    "ts": "1501801169.356994",
+    "type": "message",
+    "user": "U600G4397"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "GitHub: denysdovhan\/wtfjs",
+        "from_url": "https:\/\/github.com\/denysdovhan\/wtfjs",
+        "id": 1,
+        "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+        "service_name": "GitHub",
+        "text": "wtfjs - A list of funny and tricky JavaScript examples",
+        "thumb_height": 250,
+        "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/3459374?v=4&s=400",
+        "thumb_width": 250,
+        "title": "denysdovhan\/wtfjs",
+        "title_link": "https:\/\/github.com\/denysdovhan\/wtfjs"
+      }
+    ],
+    "datetime": "2017-08-04T15:43:05Z",
+    "name": "edorsini",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "joy",
+        "users": [
+          "U5MJF0C20"
+        ]
+      }
+    ],
+    "real_name": "Ed Orsini",
+    "text": "<https:\/\/github.com\/denysdovhan\/wtfjs>",
+    "ts": "1501861385.226556",
+    "type": "message",
+    "user": "U5E5649M2"
+  },
+  {
+    "attachments": [
+      {
+        "author_link": "https:\/\/www.youtube.com\/user\/dotconferences",
+        "author_name": "dotconferences",
+        "fallback": "YouTube Video: dotJS 2012 - Brian Leroux - WTFJS",
+        "from_url": "https:\/\/www.youtube.com\/watch?v=et8xNAc2ic8",
+        "id": 1,
+        "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+        "service_name": "YouTube",
+        "service_url": "https:\/\/www.youtube.com\/",
+        "thumb_height": 360,
+        "thumb_url": "https:\/\/i.ytimg.com\/vi\/et8xNAc2ic8\/hqdefault.jpg",
+        "thumb_width": 480,
+        "title": "dotJS 2012 - Brian Leroux - WTFJS",
+        "title_link": "https:\/\/www.youtube.com\/watch?v=et8xNAc2ic8",
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/et8xNAc2ic8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+        "video_html_height": 225,
+        "video_html_width": 400
+      }
+    ],
+    "datetime": "2017-08-04T15:53:10Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "the video there is gold\n<https:\/\/www.youtube.com\/watch?v=et8xNAc2ic8>",
+    "ts": "1501861990.569660",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "reddit: A home for ideas by people who lack time, money, or skills. \u2022 r\/SomebodyMakeThis",
+        "from_url": "https:\/\/www.reddit.com\/r\/SomebodyMakeThis\/",
+        "id": 1,
+        "service_icon": "https:\/\/www.reddit.com\/favicon.ico",
+        "service_name": "reddit",
+        "text": "reddit: the front page of the internet",
+        "thumb_height": 256,
+        "thumb_url": "https:\/\/www.redditstatic.com\/icon.png",
+        "thumb_width": 256,
+        "title": "A home for ideas by people who lack time, money, or skills. \u2022 r\/SomebodyMakeThis",
+        "title_link": "https:\/\/www.reddit.com\/r\/SomebodyMakeThis\/"
+      }
+    ],
+    "datetime": "2017-08-04T20:39:12Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "here\u2019s ideas for when you find yourself with plenty of time and motivation\n<https:\/\/www.reddit.com\/r\/SomebodyMakeThis\/>",
+    "ts": "1501879152.054167",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "datetime": "2017-08-05T00:58:18Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "Good idea to bookmark the Git docs\n<https:\/\/git-scm.com\/book\/en\/v2>",
+    "ts": "1501894698.722785",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "datetime": "2017-08-05T13:58:07Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "Git integration with Sublime\n<https:\/\/packagecontrol.io\/packages\/Git>",
+    "ts": "1501941487.668582",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Sessions College: Color Wheel - Color Calculator | Sessions College",
+        "from_url": "https:\/\/www.sessions.edu\/color-calculator\/",
+        "id": 1,
+        "service_icon": "https:\/\/www.sessions.edu\/wp-content\/uploads\/cropped-sessionscollege-icon-180x180.jpg",
+        "service_name": "Sessions College",
+        "text": "Use the color wheel to find the perfect color scheme with the Sessions College color calculator. Endless free color combinations, working from any base color.",
+        "thumb_height": 158,
+        "thumb_url": "https:\/\/www.sessions.edu\/wp-content\/uploads\/sessionscollege-general-fb-300x158.jpg",
+        "thumb_width": 300,
+        "title": "Color Wheel - Color Calculator | Sessions College",
+        "title_link": "https:\/\/www.sessions.edu\/color-calculator\/"
+      }
+    ],
+    "datetime": "2017-08-05T16:23:12Z",
+    "name": "khayes8",
+    "real_name": "Kelsey Hayes",
+    "text": "<https:\/\/www.sessions.edu\/color-calculator\/>",
+    "ts": "1501950192.399426",
+    "type": "message",
+    "user": "U5G4U43FH"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "In love with colors, since 2002. A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer. Use the color wheel to create great color palettes.",
+        "from_url": "http:\/\/paletton.com\/#uid=33Y1o0kl6lPawxafQr6qegIvBbi",
+        "id": 1,
+        "service_icon": "http:\/\/paletton.com\/img\/favicon-128.png",
+        "service_name": "paletton.com",
+        "text": "In love with colors, since 2002. A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer. Use the color wheel to create great color palettes."
+      }
+    ],
+    "datetime": "2017-08-05T16:24:18Z",
+    "name": "khayes8",
+    "real_name": "Kelsey Hayes",
+    "text": "<http:\/\/paletton.com\/#uid=33Y1o0kl6lPawxafQr6qegIvBbi>",
+    "ts": "1501950258.405209",
+    "type": "message",
+    "user": "U5G4U43FH"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "#a8cc7f Color Hex",
+        "from_url": "http:\/\/www.color-hex.com\/color\/a8cc7f",
+        "id": 1,
+        "service_icon": "http:\/\/www.color-hex.com\/favicon.ico",
+        "service_name": "color-hex.com",
+        "text": "#a8cc7f color hex, #a8cc7f color chart,rgb,hsl,hsv color number values, html css color codes and html code samples.",
+        "title": "#a8cc7f Color Hex",
+        "title_link": "http:\/\/www.color-hex.com\/color\/a8cc7f"
+      }
+    ],
+    "datetime": "2017-08-05T16:24:31Z",
+    "name": "khayes8",
+    "real_name": "Kelsey Hayes",
+    "text": "<http:\/\/www.color-hex.com\/color\/a8cc7f>",
+    "ts": "1501950271.406374",
+    "type": "message",
+    "user": "U5G4U43FH"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "CSS-Tricks: CSS Triangle | CSS-Tricks",
+        "from_url": "https:\/\/css-tricks.com\/snippets\/css\/css-triangle\/",
+        "id": 1,
+        "service_icon": "https:\/\/cdn.css-tricks.com\/apple-touch-icon.png",
+        "service_name": "CSS-Tricks",
+        "text": "HTML You can make them with a single div. It's nice to have classes for each direction possibility. CSS The idea is a box with zero width and height. The a",
+        "thumb_height": 512,
+        "thumb_url": "https:\/\/cdn.css-tricks.com\/wp-content\/uploads\/2014\/03\/css-tricks-star.png",
+        "thumb_width": 512,
+        "title": "CSS Triangle | CSS-Tricks",
+        "title_link": "https:\/\/css-tricks.com\/snippets\/css\/css-triangle\/"
+      }
+    ],
+    "datetime": "2017-08-05T17:29:21Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "<https:\/\/css-tricks.com\/snippets\/css\/css-triangle\/>",
+    "ts": "1501954161.741335",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "CodePen: Animation to Explain CSS Triangles",
+        "from_url": "https:\/\/codepen.io\/chriscoyier\/pen\/lotjh",
+        "id": 1,
+        "image_bytes": 28990,
+        "image_height": 250,
+        "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/codepen-thumbnails\/Pen\/728306\/thumbnail.large.jpg?v=1493933853",
+        "image_width": 445,
+        "service_icon": "https:\/\/production-assets.codepen.io\/assets\/favicon\/favicon-8ea04875e70c4b0bb41da869e81236e54394d63638a1ef12fa558a4a835f1164.ico",
+        "service_name": "CodePen",
+        "text": "I've been wanting to do this forever, but this Pen <http:\/\/codepen.io\/Tresva\/pen\/dxHsb> finally pushed me over the edge to do it. Hacker news if anyone ...",
+        "title": "Animation to Explain CSS Triangles",
+        "title_link": "https:\/\/codepen.io\/chriscoyier\/pen\/lotjh"
+      }
+    ],
+    "datetime": "2017-08-05T17:29:44Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "<https:\/\/codepen.io\/chriscoyier\/pen\/lotjh>",
+    "ts": "1501954184.743341",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "How to Use Google and Other Tips for Finding Programming Help - CodeProject",
+        "from_url": "https:\/\/www.codeproject.com\/Articles\/24213\/How-to-Use-Google-and-Other-Tips-for-Finding-Progr",
+        "id": 1,
+        "service_icon": "https:\/\/www.codeproject.com\/favicon.ico",
+        "service_name": "CodeProject",
+        "text": "A primer for people looking to learn to help themselves find answers to programming questions; Author: Christian Graus; Updated: 8 Mar 2008; Section: Programming Tips; Chapter: General Programming; Updated: 8 Mar 2008",
+        "title": "How to Use Google and Other Tips for Finding Programming Help - CodeProject",
+        "title_link": "https:\/\/www.codeproject.com\/Articles\/24213\/How-to-Use-Google-and-Other-Tips-for-Finding-Progr"
+      }
+    ],
+    "datetime": "2017-08-07T17:24:08Z",
+    "name": "malley73",
+    "real_name": "Michael Alley",
+    "text": "Google has the answer, the problem is finding the right search terms to use to get to that answer.  Here are some tips. <https:\/\/www.codeproject.com\/Articles\/24213\/How-to-Use-Google-and-Other-Tips-for-Finding-Progr>",
+    "ts": "1502126648.983867",
+    "type": "message",
+    "user": "U5NC15M7F"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "State Of JavaScript: The State Of JavaScript",
+        "from_url": "http:\/\/stateofjs.com\/",
+        "id": 1,
+        "service_icon": "http:\/\/stateofjs.com\/images\/favicon2.png",
+        "service_name": "stateofjs.com",
+        "text": "A short survey about current popular JavaScript technologies.",
+        "thumb_height": 365,
+        "thumb_url": "http:\/\/stateofjs.com\/images\/javascript2017-white.png",
+        "thumb_width": 700,
+        "title": "State Of JavaScript: The State Of JavaScript",
+        "title_link": "http:\/\/stateofjs.com\/"
+      }
+    ],
+    "datetime": "2017-08-09T18:25:58Z",
+    "name": "walter",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "white_check_mark",
+        "users": [
+          "U4SQL1XL1",
+          "U5F6ANCET"
+        ]
+      }
+    ],
+    "real_name": "Walter Augustine",
+    "text": "Here\u2019s some info on current trends in JS as of 2016. (2017 results haven\u2019t been published yet)\nIf you want to focus on front-end you *need* to stay up-to-date with the latest tech. I was even asked in an interview on Monday how I stay current with front-end trends.\n<http:\/\/stateofjs.com\/>",
+    "ts": "1502303158.704753",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Bootstrap",
+        "from_url": "https:\/\/getbootstrap.com\/",
+        "id": 1,
+        "image_bytes": 268279,
+        "image_height": 250,
+        "image_url": "http:\/\/getbootstrap.com\/assets\/brand\/bootstrap-social.png",
+        "image_width": 476,
+        "service_icon": "https:\/\/getbootstrap.com\/apple-touch-icon.png",
+        "service_name": "getbootstrap.com",
+        "text": "The most popular HTML, CSS, and JS library in the world.",
+        "title": "Bootstrap",
+        "title_link": "https:\/\/getbootstrap.com\/"
+      }
+    ],
+    "datetime": "2017-08-11T16:45:20Z",
+    "name": "walter",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "pizza",
+        "users": [
+          "U5EUTNWNQ"
+        ]
+      }
+    ],
+    "real_name": "Walter Augustine",
+    "text": "Bootstrap 4 is in beta!\n<https:\/\/getbootstrap.com\/>",
+    "ts": "1502469920.207428",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "datetime": "2017-08-12T14:45:37Z",
+    "name": "malley73",
+    "real_name": "Michael Alley",
+    "text": "When not to use NodeJS  <https:\/\/www.linkedin.com\/pulse\/nodejs-enterprise-applications-you-kidding-mihir-shelat>",
+    "ts": "1502549137.902398",
+    "type": "message",
+    "user": "U5NC15M7F"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "How, in general, does Node.js handle 10,000 concurrent requests?",
+        "from_url": "https:\/\/stackoverflow.com\/questions\/34855352\/how-in-general-does-node-js-handle-10-000-concurrent-requests",
+        "id": 1,
+        "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+        "service_name": "stackoverflow.com",
+        "text": "I understand that Node.js uses a single-thread and an event loop to process requests only processing one at a time (which is non-blocking). But still, how does that work, lets say 10,000 concurrent",
+        "thumb_height": 316,
+        "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+        "thumb_width": 316,
+        "title": "How, in general, does Node.js handle 10,000 concurrent requests?",
+        "title_link": "https:\/\/stackoverflow.com\/questions\/34855352\/how-in-general-does-node-js-handle-10-000-concurrent-requests"
+      }
+    ],
+    "datetime": "2017-08-12T14:55:16Z",
+    "name": "tylerschade",
+    "real_name": "Tyler Schade",
+    "text": "<https:\/\/stackoverflow.com\/questions\/34855352\/how-in-general-does-node-js-handle-10-000-concurrent-requests>",
+    "ts": "1502549716.949991",
+    "type": "message",
+    "user": "U600G4397"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "npm Documentation",
+        "from_url": "https:\/\/docs.npmjs.com\/",
+        "id": 1,
+        "service_icon": "https:\/\/docs.npmjs.com\/images\/favicon.ico",
+        "service_name": "docs.npmjs.com",
+        "text": "The place where all things npm are documented",
+        "title": "npm Documentation",
+        "title_link": "https:\/\/docs.npmjs.com\/"
+      }
+    ],
+    "datetime": "2017-08-16T00:47:53Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "NPM docs!\n<https:\/\/docs.npmjs.com\/>",
+    "ts": "1502844473.000066",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "author_link": "http:\/\/en.wikipedia.org\/",
+        "author_name": "Wikipedia",
+        "fallback": "wikipedia: List of HTTP status codes",
+        "id": 1,
+        "image_bytes": 109838,
+        "image_height": 880,
+        "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/80\/404_error_sample.png",
+        "image_width": 1101,
+        "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+        "text": "This is a list of Hypertext Transfer Protocol (HTTP) response status codes. It includes codes from IETF Request for Comments (RFCs), other specifications, and some additional codes used in some common applications of the Hypertext Transfer Protocol (HTTP). The first digit of the status code specifies one of five standard classes of responses. The message phrases shown are typical, but any human-readable alternative may be provided. Unless otherwise stated, the status code is part of the HTTP\/1.1 standard (RFC 7231).\nThe Internet Assigned Numbers Authority (IANA) maintains the official registry of HTTP status codes.\nMicrosoft Internet Information Services (IIS) sometimes uses additional decimal sub-codes for more specific information, however these sub-codes only appear in the response payload and in documentation, not in the place of an actual HTTP status code.",
+        "title": "List of HTTP status codes",
+        "title_link": "https:\/\/en.wikipedia.org\/wiki\/List_of_HTTP_status_codes"
+      }
+    ],
+    "datetime": "2017-08-16T00:58:48Z",
+    "name": "tylerschade",
+    "real_name": "Tyler Schade",
+    "text": "<https:\/\/en.wikipedia.org\/wiki\/List_of_HTTP_status_codes>",
+    "ts": "1502845128.000129",
+    "type": "message",
+    "user": "U600G4397"
+  },
+  {
+    "datetime": "2017-08-18T00:00:54Z",
+    "name": "edorsini",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U4SQL1XL1"
+        ]
+      }
+    ],
+    "real_name": "Ed Orsini",
+    "text": "FYI:\n<http:\/\/www.reactboston.com\/>",
+    "ts": "1503014454.000227",
+    "type": "message",
+    "user": "U5E5649M2"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Mockaroo  - Random Data Generator | CSV \/ JSON \/ SQL \/ Excel",
+        "from_url": "https:\/\/mockaroo.com\/",
+        "id": 1,
+        "service_icon": "https:\/\/mockaroo.com\/assets\/favicon-8d320ac46812befcc8e0c5388550bd14d2105f78bb354728e63dd50d9e345ede.png",
+        "service_name": "mockaroo.com",
+        "text": "A free test data generator - Mockaroo lets you create custom CSV, JSON, SQL, and Excel datasets to test and demo your software.",
+        "title": "Mockaroo  - Random Data Generator | CSV \/ JSON \/ SQL \/ Excel",
+        "title_link": "https:\/\/mockaroo.com\/"
+      }
+    ],
+    "datetime": "2017-08-25T15:28:18Z",
+    "name": "walter",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U5G4U43FH"
+        ]
+      }
+    ],
+    "real_name": "Walter Augustine",
+    "text": "Fake data generator\n<https:\/\/mockaroo.com\/>",
+    "ts": "1503674898.000469",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Telerik Developer Network: Understanding Scope in JavaScript",
+        "from_url": "https:\/\/developer.telerik.com\/topics\/web-development\/understanding-scope-in-javascript\/",
+        "id": 1,
+        "image_bytes": 38234,
+        "image_height": 250,
+        "image_url": "https:\/\/developer.telerik.com\/wp-content\/uploads\/2017\/08\/scope_js_header.jpg",
+        "image_width": 985,
+        "service_icon": "https:\/\/developer.telerik.com\/wp-content\/themes\/tdnv2\/assets\/img\/favicon.ico",
+        "service_name": "Telerik Developer Network",
+        "text": "Scope tells the compiler where to look for variables &amp; functions when it needs them - Wissam Abirached explains the different ways this works in JavaScript.",
+        "title": "Understanding Scope in JavaScript",
+        "title_link": "https:\/\/developer.telerik.com\/topics\/web-development\/understanding-scope-in-javascript\/",
+        "ts": 1503489682
+      }
+    ],
+    "datetime": "2017-08-25T16:08:38Z",
+    "name": "edorsini",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1::skin-tone-2",
+        "users": [
+          "U5DDYGGHW"
+        ]
+      }
+    ],
+    "real_name": "Ed Orsini",
+    "text": "<https:\/\/developer.telerik.com\/topics\/web-development\/understanding-scope-in-javascript\/>",
+    "ts": "1503677318.000451",
+    "type": "message",
+    "user": "U5E5649M2"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "The Practical Dev: 10 JavaScript concepts you need to know for interviews",
+        "from_url": "https:\/\/dev.to\/arnavaggarwal\/10-javascript-concepts-you-need-to-know-for-interviews",
+        "id": 1,
+        "image_bytes": 26287,
+        "image_height": 250,
+        "image_url": "https:\/\/res.cloudinary.com\/practicaldev\/image\/fetch\/s--C0Y-Dm_I--\/c_limit,f_auto,fl_progressive,q_auto,w_880\/https:\/\/thepracticaldev.s3.amazonaws.com\/i\/3h1njsm5sthv2ez9hwn8.jpg",
+        "image_width": 375,
+        "service_icon": "https:\/\/practicaldev-herokuapp-com.freetls.fastly.net\/assets\/apple-icon-5c6fa9f2bce280428589c6195b7f1924206a53b782b371cfe2d02da932c8c173.png",
+        "service_name": "The Practical Dev",
+        "text": "From the <http:\/\/dev.to|dev.to>() community. Sharing ideas that makes us all better developers.",
+        "title": "10 JavaScript concepts you need to know for interviews",
+        "title_link": "https:\/\/dev.to\/arnavaggarwal\/10-javascript-concepts-you-need-to-know-for-interviews"
+      }
+    ],
+    "datetime": "2017-08-25T16:23:00Z",
+    "name": "edorsini",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1::skin-tone-2",
+        "users": [
+          "U5DDYGGHW",
+          "U5G4U43FH"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "100",
+        "users": [
+          "U5MJF0C20",
+          "U5DJQBFDX"
+        ]
+      }
+    ],
+    "real_name": "Ed Orsini",
+    "text": "<https:\/\/dev.to\/arnavaggarwal\/10-javascript-concepts-you-need-to-know-for-interviews>",
+    "ts": "1503678180.000608",
+    "type": "message",
+    "user": "U5E5649M2"
+  },
+  {
+    "attachments": [
+      {
+        "author_link": "https:\/\/www.youtube.com\/channel\/UCO1cgjhGzsSYb1rsB4bFe4Q",
+        "author_name": "Fun Fun Function",
+        "fallback": "YouTube Video: Prototypes in JavaScript - FunFunFunction #16",
+        "from_url": "https:\/\/www.youtube.com\/watch?v=riDVvXZ_Kb4",
+        "id": 1,
+        "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+        "service_name": "YouTube",
+        "service_url": "https:\/\/www.youtube.com\/",
+        "thumb_height": 360,
+        "thumb_url": "https:\/\/i.ytimg.com\/vi\/riDVvXZ_Kb4\/hqdefault.jpg",
+        "thumb_width": 480,
+        "title": "Prototypes in JavaScript - FunFunFunction #16",
+        "title_link": "https:\/\/www.youtube.com\/watch?v=riDVvXZ_Kb4",
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/riDVvXZ_Kb4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+        "video_html_height": 225,
+        "video_html_width": 400
+      }
+    ],
+    "datetime": "2017-08-26T13:39:35Z",
+    "name": "khayes8",
+    "real_name": "Kelsey Hayes",
+    "text": "<https:\/\/www.youtube.com\/watch?v=riDVvXZ_Kb4>",
+    "ts": "1503754775.000014",
+    "type": "message",
+    "user": "U5G4U43FH"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "YouTube: Fun Fun Function",
+        "from_url": "https:\/\/www.youtube.com\/channel\/UCO1cgjhGzsSYb1rsB4bFe4Q",
+        "id": 1,
+        "service_icon": "https:\/\/s.ytimg.com\/yts\/img\/favicon-vflz7uhzw.ico",
+        "service_name": "YouTube",
+        "text": "I\u2019m Mattias Petter Johansson, mpj for short. I\u2019ve been a full-time programmer for about ten years. I\u2019ve worked for Absolut Vodka, Blackberry and currently wo...",
+        "thumb_height": 900,
+        "thumb_url": "https:\/\/yt3.ggpht.com\/-5ny40r8qe90\/AAAAAAAAAAI\/AAAAAAAAAAA\/IrloZ_OeiYc\/s900-c-k-no-mo-rj-c0xffffff\/photo.jpg",
+        "thumb_width": 900,
+        "title": "Fun Fun Function",
+        "title_link": "https:\/\/www.youtube.com\/channel\/UCO1cgjhGzsSYb1rsB4bFe4Q"
+      }
+    ],
+    "datetime": "2017-08-26T13:40:00Z",
+    "name": "khayes8",
+    "real_name": "Kelsey Hayes",
+    "text": "I love this guys youtube channel; he's a front-end developer at spotify and ex-theatre nerd so his videos are actually fun to watch and super informative. The one I posted above, he's talking about prototypes...while hungover lol. But still very correct and true.",
+    "ts": "1503754800.000024",
+    "type": "message",
+    "user": "U5G4U43FH"
+  },
+  {
+    "bot_id": null,
+    "datetime": "2017-08-26T18:15:53Z",
+    "display_as_bot": false,
+    "file": {
+      "channels": [
+        "C58TT4H2R"
+      ],
+      "comments_count": 0,
+      "created": 1503771351,
+      "display_as_bot": false,
+      "editable": false,
+      "external_type": "",
+      "filetype": "png",
+      "groups": [
+
+      ],
+      "id": "F6U9ZRMGD",
+      "image_exif_rotation": 1,
+      "ims": [
+
+      ],
+      "is_external": false,
+      "is_public": true,
+      "mimetype": "image\/png",
+      "mode": "hosted",
+      "name": "Pasted image at 2017_08_26 02_15 PM.png",
+      "original_h": 517,
+      "original_w": 630,
+      "permalink": "https:\/\/unhcodingbootcamp.slack.com\/files\/U5NC15M7F\/F6U9ZRMGD\/pasted_image_at_2017_08_26_02_15_pm.png",
+      "permalink_public": "https:\/\/slack-files.com\/T4THRLVNH-F6U9ZRMGD-44ce7db3fb",
+      "pretty_type": "PNG",
+      "public_url_shared": false,
+      "reactions": [
+        {
+          "count": 1,
+          "name": "+1",
+          "users": [
+            "U5E5649M2"
+          ]
+        }
+      ],
+      "size": 192883,
+      "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4THRLVNH-F6U9ZRMGD-56135b39c7\/pasted_image_at_2017_08_26_02_15_pm_160.png",
+      "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4THRLVNH-F6U9ZRMGD-56135b39c7\/pasted_image_at_2017_08_26_02_15_pm_360.png",
+      "thumb_360_h": 295,
+      "thumb_360_w": 360,
+      "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4THRLVNH-F6U9ZRMGD-56135b39c7\/pasted_image_at_2017_08_26_02_15_pm_480.png",
+      "thumb_480_h": 394,
+      "thumb_480_w": 480,
+      "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4THRLVNH-F6U9ZRMGD-56135b39c7\/pasted_image_at_2017_08_26_02_15_pm_64.png",
+      "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4THRLVNH-F6U9ZRMGD-56135b39c7\/pasted_image_at_2017_08_26_02_15_pm_80.png",
+      "timestamp": 1503771351,
+      "title": "Pasted image at 2017-08-26, 2:15 PM",
+      "url_private": "https:\/\/files.slack.com\/files-pri\/T4THRLVNH-F6U9ZRMGD\/pasted_image_at_2017_08_26_02_15_pm.png",
+      "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4THRLVNH-F6U9ZRMGD\/download\/pasted_image_at_2017_08_26_02_15_pm.png",
+      "user": "U5NC15M7F",
+      "username": ""
+    },
+    "name": "malley73",
+    "real_name": "Michael Alley",
+    "subtype": "file_share",
+    "text": "<@U5NC15M7F> uploaded a file: <https:\/\/unhcodingbootcamp.slack.com\/files\/U5NC15M7F\/F6U9ZRMGD\/pasted_image_at_2017_08_26_02_15_pm.png|Pasted image at 2017-08-26, 2:15 PM>",
+    "ts": "1503771353.000009",
+    "type": "message",
+    "upload": true,
+    "user": "U5NC15M7F",
+    "username": "malley73"
+  },
+  {
+    "datetime": "2017-08-28T19:35:44Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "Front-end job interview questions\n<https:\/\/h5bp.github.io\/Front-end-Developer-Interview-Questions\/>",
+    "ts": "1503948944.000496",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Udemy: Udemy Online Courses - Learn Anything, On Your Schedule",
+        "from_url": "https:\/\/www.udemy.com\/",
+        "id": 1,
+        "service_icon": "https:\/\/www.udemy.com\/staticx\/udemy\/images\/apple-touch-icon.png",
+        "service_name": "Udemy",
+        "text": "Udemy is an online learning and teaching marketplace with over 45,000 courses and 15 million students. Learn programming, marketing, data science and more.",
+        "thumb_height": 1024,
+        "thumb_url": "https:\/\/www.udemy.com\/staticx\/udemy\/images\/v4\/logo.jpg",
+        "thumb_width": 1024,
+        "title": "Udemy Online Courses - Learn Anything, On Your Schedule",
+        "title_link": "https:\/\/www.udemy.com\/"
+      }
+    ],
+    "datetime": "2017-08-29T17:57:57Z",
+    "name": "walter",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U5G4U43FH",
+          "U4SQL1XL1"
+        ]
+      }
+    ],
+    "real_name": "Walter Augustine",
+    "text": "Udemy is having a sale. $10 classes until Thursday\n<https:\/\/www.udemy.com\/>",
+    "ts": "1504029477.000026",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "npm: mysql",
+        "from_url": "https:\/\/www.npmjs.com\/package\/mysql",
+        "id": 1,
+        "service_icon": "https:\/\/www.npmjs.com\/static\/images\/touch-icons\/apple-touch-icon-57x57.png",
+        "service_name": "npm",
+        "text": "A node.js driver for mysql. It is written in JavaScript, does not require compiling, and is 100% MIT licensed.",
+        "thumb_height": 630,
+        "thumb_url": "https:\/\/www.npmjs.com\/static\/images\/touch-icons\/open-graph.png",
+        "thumb_width": 1200,
+        "title": "mysql",
+        "title_link": "https:\/\/www.npmjs.com\/package\/mysql"
+      }
+    ],
+    "datetime": "2017-08-29T22:58:19Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "docs for the `mysql` NPM package\n<https:\/\/www.npmjs.com\/package\/mysql>",
+    "ts": "1504047499.000275",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Getting MySQL path in command prompt",
+        "from_url": "https:\/\/stackoverflow.com\/questions\/14805567\/getting-mysql-path-in-command-prompt",
+        "id": 1,
+        "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+        "service_name": "stackoverflow.com",
+        "text": "How can i get the mysql installation path up to bin folder using command prompt in <http:\/\/windows.Is|windows.Is> there any command to get the location of mysql installation path?",
+        "thumb_height": 316,
+        "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+        "thumb_width": 316,
+        "title": "Getting MySQL path in command prompt",
+        "title_link": "https:\/\/stackoverflow.com\/questions\/14805567\/getting-mysql-path-in-command-prompt"
+      }
+    ],
+    "datetime": "2017-08-29T23:12:25Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "For windows\n<https:\/\/stackoverflow.com\/questions\/14805567\/getting-mysql-path-in-command-prompt>",
+    "ts": "1504048345.000151",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "How to add MySQL to $PATH variable to resolve \"mysql: command not found\"?",
+        "from_url": "https:\/\/apple.stackexchange.com\/questions\/176786\/how-to-add-mysql-to-path-variable-to-resolve-mysql-command-not-found",
+        "id": 1,
+        "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/apple\/img\/favicon.ico?v=b3550878dc57",
+        "service_name": "apple.stackexchange.com",
+        "text": "I installed MySQL on my Mac, and now I would like to add it to my $PATH variable. I want to be able to type mysql anywhere. I tried adding the following to my .profile file: export PATH=${PATH}\/usr\/",
+        "thumb_height": 316,
+        "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/apple\/img\/apple-touch-icon@2.png?v=b514451ec60c",
+        "thumb_width": 316,
+        "title": "How to add MySQL to $PATH variable to resolve \"mysql: command not found\"?",
+        "title_link": "https:\/\/apple.stackexchange.com\/questions\/176786\/how-to-add-mysql-to-path-variable-to-resolve-mysql-command-not-found"
+      }
+    ],
+    "datetime": "2017-08-29T23:12:59Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "For mac\n<https:\/\/apple.stackexchange.com\/questions\/176786\/how-to-add-mysql-to-path-variable-to-resolve-mysql-command-not-found>",
+    "ts": "1504048379.000230",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "SitePoint: Understanding JOINs in MySQL and Other Relational Databases",
+        "from_url": "https:\/\/www.sitepoint.com\/understanding-sql-joins-mysql-database\/",
+        "id": 1,
+        "image_bytes": 13811,
+        "image_height": 250,
+        "image_url": "https:\/\/www.sitepoint.com\/wp-content\/themes\/sitepoint\/assets\/images\/icon.programming.png",
+        "image_width": 250,
+        "service_icon": "https:\/\/www.sitepoint.com\/wp-content\/themes\/sitepoint\/assets\/images\/apple-touch-icon-57x57-precomposed.png",
+        "service_name": "SitePoint",
+        "text": "SQL JOINs are often misunderstood and one of the biggest causes of database optimization problems. This brief tutorial explains JOINs and their use in MySQL and other relational databases.",
+        "title": "Understanding JOINs in MySQL and Other Relational Databases",
+        "title_link": "https:\/\/www.sitepoint.com\/understanding-sql-joins-mysql-database\/",
+        "ts": 1305818485
+      }
+    ],
+    "datetime": "2017-09-01T01:35:19Z",
+    "name": "rblair",
+    "real_name": "Ross Blair",
+    "text": "<https:\/\/www.sitepoint.com\/understanding-sql-joins-mysql-database\/>",
+    "ts": "1504229719.000010",
+    "type": "message",
+    "user": "U5EUTNWNQ"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Axess Lab: How icons are ruining interfaces - Axess Lab",
+        "from_url": "https:\/\/axesslab.com\/icons-ruining-interfaces\/",
+        "id": 1,
+        "service_icon": "https:\/\/axesslab.com\/apple-touch-icon.png",
+        "service_name": "Axess Lab",
+        "text": "Icons used correctly can enhance both the user experience and look of your interface. Sadly, more and more designers are using them in the wrong way. And it\u2019s hurting both the usability and accessibility of the interface. My dad and his TED app I love to watch my dad use technology. It\u2019s such a great \u2026",
+        "thumb_height": 1000,
+        "thumb_url": "https:\/\/axesslab.com\/wp-content\/uploads\/2017\/08\/featured-icon.png",
+        "thumb_width": 1000,
+        "title": "How icons are ruining interfaces - Axess Lab",
+        "title_link": "https:\/\/axesslab.com\/icons-ruining-interfaces\/",
+        "ts": 1503327727
+      }
+    ],
+    "datetime": "2017-09-05T13:18:11Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "<https:\/\/axesslab.com\/icons-ruining-interfaces\/>",
+    "ts": "1504617491.000175",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "GitHub: mr-mig\/every-programmer-should-know",
+        "from_url": "https:\/\/github.com\/mr-mig\/every-programmer-should-know",
+        "id": 1,
+        "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+        "service_name": "GitHub",
+        "text": "every-programmer-should-know - A collection of (mostly) technical things every software developer should know",
+        "thumb_height": 250,
+        "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/1062491?v=4&s=400",
+        "thumb_width": 250,
+        "title": "mr-mig\/every-programmer-should-know",
+        "title_link": "https:\/\/github.com\/mr-mig\/every-programmer-should-know"
+      }
+    ],
+    "datetime": "2017-09-05T15:15:58Z",
+    "name": "walter",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U5G4U43FH"
+        ]
+      }
+    ],
+    "real_name": "Walter Augustine",
+    "text": "Stuff to know\n<https:\/\/github.com\/mr-mig\/every-programmer-should-know>",
+    "ts": "1504624558.000450",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "datetime": "2017-09-06T13:38:48Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "AI-powered daily digest of topics in software engineering\n<https:\/\/www.discoverdev.io\/>",
+    "ts": "1504705128.000203",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Atlassian: Git cheat sheet | Atlassian Git Tutorial",
+        "from_url": "https:\/\/www.atlassian.com\/git\/tutorials\/atlassian-git-cheatsheet",
+        "id": 1,
+        "service_icon": "https:\/\/wac-cdn.atlassian.com\/assets\/img\/favicons\/gitguide\/apple-touch-icon-57x57.png",
+        "service_name": "Atlassian",
+        "text": "Git cheat sheet that serves as a quick reference for basic Git commands to help you learn Git. Git branches, remote repositories, undoing changes, and more",
+        "title": "Git cheat sheet | Atlassian Git Tutorial",
+        "title_link": "https:\/\/www.atlassian.com\/git\/tutorials\/atlassian-git-cheatsheet"
+      }
+    ],
+    "datetime": "2017-09-06T13:56:52Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "Git cheat sheet\n<https:\/\/www.atlassian.com\/git\/tutorials\/atlassian-git-cheatsheet>",
+    "ts": "1504706212.000121",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "datetime": "2017-09-06T19:02:29Z",
+    "edited": {
+      "ts": "1504724583.000000",
+      "user": "U5FB2A97Z"
+    },
+    "name": "tradan",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "100",
+        "users": [
+          "U5MJF0C20"
+        ]
+      }
+    ],
+    "real_name": "Matt Sullivan",
+    "text": "Interactive site that teaches you SQL.  Looks good.  \n<https:\/\/sqlzoo.net\/>",
+    "ts": "1504724549.000020",
+    "type": "message",
+    "user": "U5FB2A97Z"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Explain and example about 'get', 'delete', 'post', 'put', 'options', 'patch', 'head' method?",
+        "from_url": "https:\/\/stackoverflow.com\/questions\/27030649\/explain-and-example-about-get-delete-post-put-options-patch-h",
+        "id": 1,
+        "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+        "service_name": "stackoverflow.com",
+        "text": "I'm writing a webservice. Could any one explain these above methods and give me some example about them? Thank for your help.",
+        "thumb_height": 316,
+        "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+        "thumb_width": 316,
+        "title": "Explain and example about 'get', 'delete', 'post', 'put', 'options', 'patch', 'head' method?",
+        "title_link": "https:\/\/stackoverflow.com\/questions\/27030649\/explain-and-example-about-get-delete-post-put-options-patch-h"
+      }
+    ],
+    "datetime": "2017-09-08T01:14:02Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "<https:\/\/stackoverflow.com\/questions\/27030649\/explain-and-example-about-get-delete-post-put-options-patch-h>",
+    "ts": "1504833242.000164",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "datetime": "2017-09-09T14:04:20Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "Express docs\n<https:\/\/expressjs.com\/>",
+    "ts": "1504965860.000034",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "HTTP Status Codes",
+        "from_url": "http:\/\/www.restapitutorial.com\/httpstatuscodes.html",
+        "id": 1,
+        "service_name": "restapitutorial.com",
+        "text": "HTTP status codes and how to use them in RESTful API or Web Services.",
+        "title": "HTTP Status Codes",
+        "title_link": "http:\/\/www.restapitutorial.com\/httpstatuscodes.html"
+      }
+    ],
+    "datetime": "2017-09-09T14:38:27Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "HTTP status codes\n<http:\/\/www.restapitutorial.com\/httpstatuscodes.html>",
+    "ts": "1504967907.000097",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "ogsite_name: Fresh Brewed Frontend",
+        "from_url": "https:\/\/freshbrewed.co\/frontend\/",
+        "id": 1,
+        "image_bytes": 10977,
+        "image_height": 100,
+        "image_url": "https:\/\/freshbrewed.co\/img\/FBFE_Logo.png",
+        "image_width": 600,
+        "service_name": "ogsite_name",
+        "text": "Fresh Brewed Frontend is THE web developer newsletter for those looking to focus on the latest news, best practices, and techniques in frontend development. We find the content worth reading so you won't have to.",
+        "title": "Fresh Brewed Frontend",
+        "title_link": "https:\/\/freshbrewed.co\/frontend\/"
+      }
+    ],
+    "datetime": "2017-09-12T13:49:03Z",
+    "name": "walter",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "heart_eyes",
+        "users": [
+          "U5G4U43FH"
+        ]
+      }
+    ],
+    "real_name": "Walter Augustine",
+    "text": "Nice weekly emails for front end developers to stay up to date\n<https:\/\/freshbrewed.co\/frontend\/>",
+    "ts": "1505224143.000433",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Code School: Express.js Tutorial | Code School",
+        "from_url": "https:\/\/www.codeschool.com\/courses\/building-blocks-of-express-js",
+        "id": 1,
+        "service_name": "Code School",
+        "text": "Express provides more robust features to your web application. Learn how to build Web APIs in Node using Express.",
+        "thumb_height": 220,
+        "thumb_url": "https:\/\/d1ffx7ull4987f.cloudfront.net\/images\/achievements\/large_badge\/475\/completed-building-blocks-of-express-js-51227acf5773414563c2dcd82c14ca10.png",
+        "thumb_width": 220,
+        "title": "Express.js Tutorial | Code School",
+        "title_link": "https:\/\/www.codeschool.com\/courses\/building-blocks-of-express-js"
+      },
+      {
+        "fallback": "Scotch: Use ExpressJS to Get URL and POST Parameters",
+        "from_url": "https:\/\/scotch.io\/tutorials\/use-expressjs-to-get-url-and-post-parameters",
+        "id": 2,
+        "image_bytes": 188268,
+        "image_height": 250,
+        "image_url": "https:\/\/scotch.io\/wp-content\/uploads\/2014\/11\/express-url-post-parameters.png",
+        "image_width": 600,
+        "service_icon": "https:\/\/scotch.io\/img\/icons\/gold\/apple-touch-icon-57x57.png",
+        "service_name": "Scotch",
+        "text": "Often when we are building applications using ExpressJS, we will need to get information from our users. This can happen any number of ways but the two most popular are: URL Parameters These are information that are passed through the URL",
+        "title": "Use ExpressJS to Get URL and POST Parameters",
+        "title_link": "https:\/\/scotch.io\/tutorials\/use-expressjs-to-get-url-and-post-parameters"
+      },
+      {
+        "fallback": "Scotch: Build a RESTful API Using Node and Express 4",
+        "from_url": "https:\/\/scotch.io\/tutorials\/build-a-restful-api-using-node-and-express-4",
+        "id": 3,
+        "image_bytes": 47644,
+        "image_height": 250,
+        "image_url": "https:\/\/scotch.io\/wp-content\/uploads\/2014\/04\/restful-api-node-express-4-router.jpg",
+        "image_width": 600,
+        "service_icon": "https:\/\/scotch.io\/img\/icons\/gold\/apple-touch-icon-57x57.png",
+        "service_name": "Scotch",
+        "text": "With the release of Express 4.0 just a few days ago, lots of our Node apps will have some changes in how they handle routing. With the changes in the",
+        "title": "Build a RESTful API Using Node and Express 4",
+        "title_link": "https:\/\/scotch.io\/tutorials\/build-a-restful-api-using-node-and-express-4"
+      }
+    ],
+    "datetime": "2017-09-12T22:01:35Z",
+    "edited": {
+      "ts": "1505253711.000000",
+      "user": "U5E5649M2"
+    },
+    "name": "edorsini",
+    "real_name": "Ed Orsini",
+    "text": "<https:\/\/www.codeschool.com\/courses\/building-blocks-of-express-js>\n\n<https:\/\/www.codeschool.com\/courses\/building-blocks-of-express-js>\n\n<https:\/\/scotch.io\/tutorials\/use-expressjs-to-get-url-and-post-parameters>\n\n<https:\/\/scotch.io\/tutorials\/build-a-restful-api-using-node-and-express-4>",
+    "ts": "1505253695.000293",
+    "type": "message",
+    "user": "U5E5649M2"
+  },
+  {
+    "datetime": "2017-09-13T02:30:23Z",
+    "name": "malley73",
+    "real_name": "Michael Alley",
+    "text": "for helping create your Readme files. You can make changes and see them reflected in real time without needing to commit.   <https:\/\/jbt.github.io\/markdown-editor\/#bVNBbtswELzzFVs4gO3GltpremqTpgkQA0WTnoICoUVSpC1yBXJlJyn69y4pw84hgAnJ5HBmd2Y1gdkPRzfDenndyR1GreawknGrcB\/gu3KEUYhvMrkGhqTN0IHRkoaooXOJLoSAj3BJsTu\/hxouveInISS500BWg3GdPkGsM3QCHv4xvLGISR8vynQqASPcPKzuMsdVlC3IoEBF7EEWbnCBb1kdy+0OpQJHGXydDxsMpAMlkHyeqfk0lLp+\/7qDhPCCAzQyQLIZkQmTEOJ26iEgtIgKJME+OnKhZQLfM2mdcZ2OQPqZFpmlxYJhCfSabMYycUy6M5UQd4jbBZeb\/fpQ\/DKI+bGWcXy8CvGV28pdTFMh4cqV\/gAX55\/Z4aenp43cydRE15M4m5khNOQwzOZ\/BcDZbKrcbjqvLPluNr0F6VmMt6rp\/Iv4x4vvC\/FgXQL+PWKAMfA\/M0vUp4u6bh3ZYV016OvNmmp\/8H6pS\/zz3GKnCbisbcA9OAO3U45p\/Slus6NUSt7n8rld8ZPTSTmNVazgCnFdMsvyj7krGFlHdRb3UTGmiPcRN7qhVGfcQb2eL8BE9LC3rrEiZ+dC6l2U2YIsw4anRdEozll+ewGXo\/Kc\/QjjTIhBjfS5xMlkAvc0GJNHWmUOL7e6EI0D\/Xi0wNG7Nr05f\/s+52jjaXZ7GRMPQ2G85JZWLsY3necufdmqgqZ6vJwblHtdWkkvXP\/z0rrWdryIax1NKYzH7WqTjpwJDe15lr0MTjapwtiWvfqIrnU4SI30cDzJc8ufBw7UD1QmENYdNttU5DZpqbTpJOl3HVEybLGVrj7hRpX21fV9pkYDSpI82s1zY3ixIn+MSfwH>",
+    "ts": "1505269823.000075",
+    "type": "message",
+    "user": "U5NC15M7F"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Online Markdown Editor - Dillinger, the Last Markdown Editor ever.",
+        "from_url": "https:\/\/dillinger.io\/",
+        "id": 1,
+        "service_icon": "https:\/\/dillinger.io\/apple-touch-icon.png",
+        "service_name": "dillinger.io",
+        "text": "Dillinger is an online cloud based HTML5 filled Markdown Editor. Sync with Dropbox, Github, Google Drive or OneDrive. Convert HTML to Markdown. 100% Open Source!",
+        "title": "Online Markdown Editor - Dillinger, the Last Markdown Editor ever.",
+        "title_link": "https:\/\/dillinger.io\/"
+      }
+    ],
+    "datetime": "2017-09-13T13:23:52Z",
+    "edited": {
+      "ts": "1505309101.000000",
+      "user": "U5MJF0C20"
+    },
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "Dillinger is a markdown editor I like. You can import and export from your github, dropbox, google drive, or one drive, and save your READMEs as html, markdown, or pdf\n<https:\/\/dillinger.io\/>",
+    "ts": "1505309032.000166",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "GitHub: remy\/nodemon",
+        "from_url": "https:\/\/github.com\/remy\/nodemon",
+        "id": 1,
+        "service_icon": "https:\/\/cfr.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+        "service_name": "GitHub",
+        "text": "nodemon - Monitor for any changes in your node.js application and automatically restart the server - perfect for development",
+        "thumb_height": 250,
+        "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/13700?v=4&s=400",
+        "thumb_width": 250,
+        "title": "remy\/nodemon",
+        "title_link": "https:\/\/github.com\/remy\/nodemon"
+      }
+    ],
+    "datetime": "2017-09-14T23:18:55Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "use nodemon to not have to restart your server when you make a change\n<https:\/\/github.com\/remy\/nodemon>",
+    "ts": "1505431135.000146",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Sails.js | Realtime MVC Framework for Node.js",
+        "from_url": "http:\/\/sailsjs.com\/",
+        "id": 1,
+        "service_icon": "http:\/\/sailsjs.com\/favicon.ico",
+        "service_name": "sailsjs.com",
+        "text": "Sails.js makes it easy to build custom, enterprise-grade Node.js apps. It is designed to resemble the MVC architecture from frameworks like Ruby on Rails, but with support for the more modern, data-oriented style of web app development. It's especially good for building realtime features like chat.",
+        "title": "Sails.js | Realtime MVC Framework for Node.js",
+        "title_link": "http:\/\/sailsjs.com\/"
+      }
+    ],
+    "datetime": "2017-09-15T00:45:59Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "Sails.js MVC node framework\n<http:\/\/sailsjs.com\/>",
+    "ts": "1505436359.000086",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "datetime": "2017-09-15T00:55:53Z",
+    "edited": {
+      "ts": "1505436966.000000",
+      "user": "U5MJF0C20"
+    },
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "Syntax highlighting for handlebars files\n<https:\/\/packagecontrol.io\/packages\/Handlebars>",
+    "ts": "1505436953.000126",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Code School Blog: 10 Web Development Podcasts You Should Be Subscribed To - Code School Blog",
+        "from_url": "https:\/\/www.codeschool.com\/blog\/2015\/11\/20\/10-web-development-podcasts-you-should-be-subscribed-to\/",
+        "id": 1,
+        "service_name": "Code School Blog",
+        "text": "As a developer, it\u2019s crucial to practice your craft to keep your skills sharp.",
+        "thumb_height": 600,
+        "thumb_url": "https:\/\/www.codeschool.com\/blog\/2015\/11\/20\/10-web-development-podcasts-you-should-be-subscribed-to\/1120-blog-header-1.jpg",
+        "thumb_width": 1509,
+        "title": "10 Web Development Podcasts You Should Be Subscribed To - Code School Blog",
+        "title_link": "https:\/\/www.codeschool.com\/blog\/2015\/11\/20\/10-web-development-podcasts-you-should-be-subscribed-to\/"
+      }
+    ],
+    "datetime": "2017-09-16T16:11:05Z",
+    "name": "khayes8",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "100",
+        "users": [
+          "U5MJF0C20"
+        ]
+      }
+    ],
+    "real_name": "Kelsey Hayes",
+    "text": "<https:\/\/www.codeschool.com\/blog\/2015\/11\/20\/10-web-development-podcasts-you-should-be-subscribed-to\/> currently looking into good web dev podcasts to listen to while driving, anyone do this? or have any suggestions?",
+    "ts": "1505578265.000088",
+    "type": "message",
+    "user": "U5G4U43FH"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Should PUT and DELETE be used in forms?",
+        "from_url": "https:\/\/stackoverflow.com\/questions\/5162960\/should-put-and-delete-be-used-in-forms",
+        "id": 1,
+        "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+        "service_name": "stackoverflow.com",
+        "text": "Assuming my web application has full support of PUT and DELETE on the server side, should I make use of them? Basically my question is how many browsers support this: &lt;form method=\"PUT\"&gt; ...",
+        "thumb_height": 316,
+        "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+        "thumb_width": 316,
+        "title": "Should PUT and DELETE be used in forms?",
+        "title_link": "https:\/\/stackoverflow.com\/questions\/5162960\/should-put-and-delete-be-used-in-forms"
+      },
+      {
+        "fallback": "Mozilla Developer Network: ",
+        "from_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/HTML\/Element\/form",
+        "id": 2,
+        "service_icon": "https:\/\/developer.cdn.mozilla.net\/static\/img\/favicon144.0d89fc050967.png",
+        "service_name": "Mozilla Developer Network",
+        "service_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/HTML\/Element\/form",
+        "text": "The HTML form element represents a document section that contains interactive controls to submit information to a web server.",
+        "thumb_height": 600,
+        "thumb_url": "https:\/\/developer.cdn.mozilla.net\/static\/img\/opengraph-logo.72382e605ce3.png",
+        "thumb_width": 600
+      }
+    ],
+    "datetime": "2017-09-16T17:35:03Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "<https:\/\/stackoverflow.com\/questions\/5162960\/should-put-and-delete-be-used-in-forms>\n<https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/HTML\/Element\/form>",
+    "ts": "1505583303.000084",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "CSS-Tricks: \"The Notch\" and CSS | CSS-Tricks",
+        "from_url": "https:\/\/css-tricks.com\/the-notch-and-css\/",
+        "id": 1,
+        "service_icon": "https:\/\/cdn.css-tricks.com\/apple-touch-icon.png",
+        "service_name": "CSS-Tricks",
+        "text": "Apple's iPhone X has a screen that covers the entire face of the phone, save for a \"notch\" to make space for a camera and other various components. The res",
+        "thumb_height": 850,
+        "thumb_url": "https:\/\/cdn.css-tricks.com\/wp-content\/uploads\/2017\/09\/iphonex-safari.png",
+        "thumb_width": 1280,
+        "title": "\"The Notch\" and CSS | CSS-Tricks",
+        "title_link": "https:\/\/css-tricks.com\/the-notch-and-css\/",
+        "ts": 1505566473
+      }
+    ],
+    "datetime": "2017-09-18T13:48:17Z",
+    "edited": {
+      "ts": "1506110756.000000",
+      "user": "U5MJF0C20"
+    },
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "the new iPhone notch will be ~interesting~ a nightmare to work with in CSS. check out the video at the end\n<https:\/\/css-tricks.com\/the-notch-and-css\/>",
+    "ts": "1505742497.000487",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "WebKit: Designing Websites for iPhone X",
+        "from_url": "https:\/\/webkit.org\/blog\/7929\/designing-websites-for-iphone-x\/",
+        "id": 1,
+        "image_bytes": 335051,
+        "image_height": 250,
+        "image_url": "https:\/\/webkit.org\/wp-content\/uploads\/safe-area-constants-1024x509.png",
+        "image_width": 503,
+        "service_icon": "https:\/\/webkit.org\/favicon.ico",
+        "service_name": "WebKit",
+        "title": "Designing Websites for iPhone X",
+        "title_link": "https:\/\/webkit.org\/blog\/7929\/designing-websites-for-iphone-x\/",
+        "ts": 1506074410
+      }
+    ],
+    "datetime": "2017-09-22T20:04:58Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "the new iPhone X notch will be ~interesting~ a nightmare to work with in CSS\n<https:\/\/webkit.org\/blog\/7929\/designing-websites-for-iphone-x\/>",
+    "ts": "1506110698.000494",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "TodoMVC",
+        "from_url": "http:\/\/todomvc.com\/",
+        "id": 1,
+        "service_icon": "http:\/\/todomvc.com\/site-assets\/favicon.ico",
+        "service_name": "todomvc.com",
+        "text": "Helping you select an MV* framework - Todo apps for Backbone.js, Ember.js, AngularJS and many more",
+        "thumb_height": 246,
+        "thumb_url": "https:\/\/raw.githubusercontent.com\/tastejs\/todomvc\/gh-pages\/site-assets\/screenshot.png",
+        "thumb_width": 558,
+        "title": "TodoMVC",
+        "title_link": "http:\/\/todomvc.com\/"
+      }
+    ],
+    "datetime": "2017-09-23T15:11:53Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "<http:\/\/todomvc.com\/>",
+    "ts": "1506179513.000041",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "RegexOne - Learn Regular Expressions - Lesson 1: An Introduction, and the ABCs",
+        "from_url": "https:\/\/regexone.com\/",
+        "id": 1,
+        "service_name": "RegexOne - Learn regular expressions with simple, interactive exercises.",
+        "text": "RegexOne provides a set of interactive lessons and exercises to help you learn regular expressions",
+        "title": "RegexOne - Learn Regular Expressions - Lesson 1: An Introduction, and the ABCs",
+        "title_link": "https:\/\/regexone.com\/"
+      }
+    ],
+    "datetime": "2017-09-23T17:34:58Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "<https:\/\/regexone.com\/>",
+    "ts": "1506188098.000037",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Regex101 - online regex editor and debugger",
+        "from_url": "https:\/\/regex101.com\/#javascript",
+        "id": 1,
+        "service_icon": "https:\/\/regex101.com\/apple-icon-57x57.png",
+        "service_name": "regex101.com",
+        "text": "Regex101 allows you to create, debug, test and have your expressions explained for PHP, PCRE, Python, Golang and JavaScript. The website also features a community where you can share useful expressions.",
+        "thumb_height": 1532,
+        "thumb_url": "https:\/\/regex101.com\/preview.png",
+        "thumb_width": 3680,
+        "title": "Regex101 - online regex editor and debugger",
+        "title_link": "https:\/\/regex101.com\/#javascript"
+      }
+    ],
+    "datetime": "2017-09-23T17:35:14Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "<https:\/\/regex101.com\/#javascript>",
+    "ts": "1506188114.000083",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "bot_id": null,
+    "datetime": "2017-09-23T18:22:49Z",
+    "display_as_bot": false,
+    "file": {
+      "channels": [
+        "C58TT4H2R"
+      ],
+      "comments_count": 0,
+      "created": 1506190968,
+      "display_as_bot": false,
+      "edit_link": "https:\/\/unhcodingbootcamp.slack.com\/files\/U5MJF0C20\/F77UEDA9K\/interview_questions.js\/edit",
+      "editable": true,
+      "external_type": "",
+      "filetype": "javascript",
+      "groups": [
+
+      ],
+      "id": "F77UEDA9K",
+      "ims": [
+
+      ],
+      "is_external": false,
+      "is_public": true,
+      "lines": 35,
+      "lines_more": 30,
+      "mimetype": "text\/plain",
+      "mode": "snippet",
+      "name": "Interview_questions.js",
+      "permalink": "https:\/\/unhcodingbootcamp.slack.com\/files\/U5MJF0C20\/F77UEDA9K\/interview_questions.js",
+      "permalink_public": "https:\/\/slack-files.com\/T4THRLVNH-F77UEDA9K-5163257cda",
+      "pretty_type": "JavaScript\/JSON",
+      "preview": "\/\/ Question 1\r\n\/\/ Why does this return 'Hey arnold'?\r\nfunction greet (person) {\r\n  if (person == {name: 'jon'}) {\r\n    return 'Hey jon'\r",
+      "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\">\/\/ Question 1<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-comment\">\/\/ Why does this return 'Hey arnold'?<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">function<\/span> <span class=\"cm-def\">greet<\/span> (<span class=\"cm-def\">person<\/span>) {<\/pre><\/div>\n<div><pre>  <span class=\"cm-keyword\">if<\/span> (<span class=\"cm-variable-2\">person<\/span> <span class=\"cm-operator\">==<\/span> {<span class=\"cm-property\">name<\/span>: <span class=\"cm-string\">'jon'<\/span>}) {<\/pre><\/div>\n<div><pre>    <span class=\"cm-keyword\">return<\/span> <span class=\"cm-string\">'Hey jon'<\/span><\/pre><\/div>\n<\/div>\n<\/div>\n",
+      "preview_is_truncated": false,
+      "public_url_shared": false,
+      "size": 660,
+      "timestamp": 1506190968,
+      "title": "Interview questions",
+      "url_private": "https:\/\/files.slack.com\/files-pri\/T4THRLVNH-F77UEDA9K\/interview_questions.js",
+      "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4THRLVNH-F77UEDA9K\/download\/interview_questions.js",
+      "user": "U5MJF0C20",
+      "username": ""
+    },
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "subtype": "file_share",
+    "text": "<@U5MJF0C20> uploaded a file: <https:\/\/unhcodingbootcamp.slack.com\/files\/U5MJF0C20\/F77UEDA9K\/interview_questions.js|Interview questions>",
+    "ts": "1506190969.000042",
+    "type": "message",
+    "upload": true,
+    "user": "U5MJF0C20",
+    "username": "walter"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "plainJS - fast and lightweight JavaScript tools",
+        "from_url": "https:\/\/plainjs.com\/",
+        "id": 1,
+        "image_bytes": 9845,
+        "image_height": 250,
+        "image_url": "https:\/\/plainjs.com\/static\/img\/logo_640.png",
+        "image_width": 637,
+        "service_icon": "https:\/\/plainjs.com\/apple-touch-icon-57x57.png",
+        "service_name": "plainjs.com",
+        "text": "Vanilla JavaScript for writing powerful web applications without jQuery.",
+        "title": "plainJS - fast and lightweight JavaScript tools",
+        "title_link": "https:\/\/plainjs.com\/"
+      }
+    ],
+    "datetime": "2017-09-25T17:31:29Z",
+    "name": "walter",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "fire",
+        "users": [
+          "U5EUTNWNQ"
+        ]
+      }
+    ],
+    "real_name": "Walter Augustine",
+    "text": "Vanilla JS solutions for common jQuery tasks\n<https:\/\/plainjs.com\/>",
+    "ts": "1506360689.000060",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "freeCodeCamp: I spent 3 months applying to jobs after a coding bootcamp. Here\u2019s what I learned.",
+        "fields": [
+          {
+            "short": true,
+            "title": "Reading time",
+            "value": "6 min read"
+          }
+        ],
+        "from_url": "https:\/\/medium.freecodecamp.org\/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331",
+        "id": 1,
+        "image_bytes": 39267,
+        "image_height": 250,
+        "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*tMOJBSqKfYd9M2zOskluFw.png",
+        "image_width": 562,
+        "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*MotlWcSa2n6FrOx3ul89kw.png",
+        "service_name": "freeCodeCamp",
+        "text": "A less-talked about part of the bootcamper\u2019s journey is what happens after you graduate \u2014 when you\u2019re searching for that six-figure\u2026",
+        "title": "I spent 3 months applying to jobs after a coding bootcamp. Here\u2019s what I learned.",
+        "title_link": "https:\/\/medium.freecodecamp.org\/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331",
+        "ts": 1479574110
+      }
+    ],
+    "datetime": "2017-09-26T16:29:33Z",
+    "name": "tylerschade",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U5F6ANCET"
+        ]
+      }
+    ],
+    "real_name": "Tyler Schade",
+    "text": "A bit of fuel for your fires today: <https:\/\/medium.freecodecamp.org\/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331>",
+    "ts": "1506443373.000668",
+    "type": "message",
+    "user": "U600G4397"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "HNPWA",
+        "from_url": "https:\/\/hnpwa.com\/",
+        "id": 1,
+        "image_bytes": 221916,
+        "image_height": 250,
+        "image_url": "https:\/\/hnpwa.com\/assets\/images\/hnpwa-showcase.png",
+        "image_width": 444,
+        "service_icon": "https:\/\/hnpwa.com\/assets\/favicon.ico",
+        "service_name": "hnpwa.com",
+        "text": "Hacker News readers as Progressive Web Apps",
+        "title": "HNPWA",
+        "title_link": "https:\/\/hnpwa.com\/"
+      }
+    ],
+    "datetime": "2017-09-26T19:47:45Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "Hacker News readers as Progressive Web Apps. similar to TodoMVC\n<https:\/\/hnpwa.com\/>",
+    "ts": "1506455265.000228",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Moocha - Search engine for online courses",
+        "from_url": "https:\/\/www.moocha.io\/",
+        "id": 1,
+        "service_icon": "https:\/\/www.moocha.io\/static\/favicon.png",
+        "service_name": "moocha.io",
+        "text": "Search for MOOCs and online courses from platforms including Coursera, edX, MIT OpenCoursWware, Udacity, and Futurelearn.",
+        "title": "Moocha - Search engine for online courses",
+        "title_link": "https:\/\/www.moocha.io\/"
+      }
+    ],
+    "datetime": "2017-09-27T18:39:31Z",
+    "edited": {
+      "ts": "1506537581.000000",
+      "user": "U5MJF0C20"
+    },
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "Moocha. a search engine for MOOCs\n<https:\/\/www.moocha.io\/>",
+    "ts": "1506537571.000456",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "author_link": "https:\/\/www.youtube.com\/channel\/UC2SYjKBTEOCtLEjVC6ixISw",
+        "author_name": "The Coding Boot Camp",
+        "fallback": "YouTube Video: Sequelize + Handlebars Review",
+        "from_url": "https:\/\/www.youtube.com\/watch?v=EDgpYNqItmc&amp;index=1-ZiCqgm3dw7Cvrewq2",
+        "id": 1,
+        "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+        "service_name": "YouTube",
+        "service_url": "https:\/\/www.youtube.com\/",
+        "thumb_height": 360,
+        "thumb_url": "https:\/\/i.ytimg.com\/vi\/EDgpYNqItmc\/hqdefault.jpg",
+        "thumb_width": 480,
+        "title": "Sequelize + Handlebars Review",
+        "title_link": "https:\/\/www.youtube.com\/watch?v=EDgpYNqItmc&amp;index=1-ZiCqgm3dw7Cvrewq2",
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/EDgpYNqItmc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+        "video_html_height": 225,
+        "video_html_width": 400
+      }
+    ],
+    "datetime": "2017-09-28T00:53:01Z",
+    "name": "edorsini",
+    "real_name": "Ed Orsini",
+    "text": "I encourage everyone that would like to review Sequelize and Handlebars to checkout this video:\n<https:\/\/www.youtube.com\/watch?v=EDgpYNqItmc&amp;index=1&amp;list=PLgJ8UgkiorCnbVc-ZiCqgm3dw7Cvrewq2>",
+    "ts": "1506559981.000157",
+    "type": "message",
+    "user": "U5E5649M2"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Mozilla Developer Network: Strict mode",
+        "from_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/JavaScript\/Reference\/Strict_mode",
+        "id": 1,
+        "service_icon": "https:\/\/developer.cdn.mozilla.net\/static\/img\/favicon144.0d89fc050967.png",
+        "service_name": "Mozilla Developer Network",
+        "text": "ECMAScript 5 's strict mode is a way to opt in to a restricted variant of JavaScript. Strict mode isn't just a subset: it intentionally has different semantics from normal code. Browsers not supporting strict mode will run strict mode code with different behavior from browsers that do, so don't rely on strict mode without feature-testing for support for the relevant aspects of strict mode. Strict mode code and non-strict mode code can coexist, so scripts can opt into strict mode incrementally.",
+        "thumb_height": 600,
+        "thumb_url": "https:\/\/developer.cdn.mozilla.net\/static\/img\/opengraph-logo.72382e605ce3.png",
+        "thumb_width": 600,
+        "title": "Strict mode",
+        "title_link": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/JavaScript\/Reference\/Strict_mode"
+      }
+    ],
+    "datetime": "2017-09-28T23:08:01Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "What is `\"use strict\";`?\n<https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/JavaScript\/Reference\/Strict_mode>",
+    "ts": "1506640081.000211",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "Chai",
+        "from_url": "http:\/\/chaijs.com\/",
+        "id": 1,
+        "service_icon": "http:\/\/chaijs.com\/favicon.ico",
+        "service_name": "chaijs.com",
+        "text": "Chai is a BDD \/ TDD assertion library for [node](<http:\/\/nodejs.org>) and the browser that can be delightfully paired with any javascript testing framework.",
+        "title": "Chai",
+        "title_link": "http:\/\/chaijs.com\/"
+      }
+    ],
+    "datetime": "2017-09-30T14:12:55Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "<https:\/\/mochajs.org\/>\n<http:\/\/chaijs.com\/>",
+    "ts": "1506780775.000052",
+    "type": "message",
+    "user": "U5MJF0C20"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "GitHub: segmentio\/nightmare",
+        "from_url": "https:\/\/github.com\/segmentio\/nightmare",
+        "id": 1,
+        "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+        "service_name": "GitHub",
+        "text": "nightmare - A high-level browser automation library.",
+        "thumb_height": 250,
+        "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/819518?v=4&s=400",
+        "thumb_width": 250,
+        "title": "segmentio\/nightmare",
+        "title_link": "https:\/\/github.com\/segmentio\/nightmare"
+      }
+    ],
+    "datetime": "2017-09-30T15:33:21Z",
+    "name": "walter",
+    "real_name": "Walter Augustine",
+    "text": "Nightmare\n<https:\/\/github.com\/segmentio\/nightmare>",
+    "ts": "1506785601.000073",
+    "type": "message",
+    "user": "U5MJF0C20"
+  }
+]
