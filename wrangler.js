@@ -10,7 +10,7 @@ file = Object.entries(JSON.parse(file)).filter((value) => {
   return ({
     'title': value[1].attachments[0].fallback, // title
     'description': value[1].attachments[0].text, // description
-    'user_id': value[1].real_name, // user
+    'user_id': 1, // user
     'link': value[1].attachments[0].from_url // url
   });
 });
