@@ -1,20 +1,22 @@
 const fs = require('fs');
 
 // read exported file
-fs.readFile('slack-dump.json', 'utf-8', (err, rawdata) => {
-  if (err) throw err;
-  const data = JSON.parse(rawdata);
-
-  for (let value of Object.entries(data)) {
-    // console.log(value[1].real_name); // user
-    // if (typeof value[1].attachments !== 'undefined') {
-    //   console.log(value[1].attachments[0].from_url); // url
-    //   console.log(value[1].attachments[0].text); // description
-    //   console.log(value[1].attachments[0].fallback); // title
-    // }
-    console.log(value[1]);
-    console.log('=========================================');
+let file = fs.readFileSync('slack-dump.json', 'utf8');
+file = Object.entries(JSON.parse(file)).filter((value) => {
+  if (typeof value[1].attachments !== 'undefined') {
+    return true;
   }
+}).map((value) => {
+  return ({
+    'title': value[1].attachments[0].fallback, // title
+    'description': value[1].attachments[0].text, // description
+    'user_id': value[1].real_name, // user
+    'link': value[1].attachments[0].from_url // url
+  });
 });
 
 // write new file
+fs.writeFile('clean-data.json', JSON.stringify(file), 'utf8', (err) => {
+  if (err) throw err;
+  console.log('The file has been saved!');
+});
