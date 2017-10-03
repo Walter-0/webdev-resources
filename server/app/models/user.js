@@ -18,7 +18,7 @@ module.exports = function(sequelize, DataTypes) {
         User.hasMany(models.Resource);
       }
     }
-  });
+  }); 
 
   return User;
 };
