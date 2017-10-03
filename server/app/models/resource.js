@@ -8,13 +8,13 @@ module.exports = function(sequelize, DataTypes) {
       }
     },
     description: {
-      type: DataTypes.TEXT,
+      type: DataTypes.TEXT, 
       allowNull: true,
     },
     link: {
       type: DataTypes.STRING,
       allowNull: false,
-    },
+    }, 
   }, {
     classMethods: {
       associate: function(models) {
