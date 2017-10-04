@@ -4,7 +4,7 @@ import { HttpModule } from '@angular/http';
 
 @Injectable()
 export class ResourceService {
-  private apiUrl = 'http://localhost:3000/'
+  private apiUrl = 'http://localhost:3000/';
 
   getAllResources(): void {}
   getResourcesByTag(tag: String): void {}
