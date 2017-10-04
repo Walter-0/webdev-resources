@@ -9,7 +9,7 @@ var config = {
       name: 'projects'
     },
     port: process.env.PORT || 3000,
-    db: 'mysql://root@localhost:3306/webdev_db'
+    db: 'mysql://root:JavaOne!2005@localhost:3306/webdev_db'
   },
 
   test: {
