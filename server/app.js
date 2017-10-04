@@ -9,7 +9,9 @@ app.use(express.static(path.join(__dirname, '../client/dist')));
 
 module.exports = require('./config/express')(app, config);
 db.sequelize
-  .sync({ force: true })
+  .sync({
+    force: false
+  })
   .then(function () {
     if (!module.parent) {
       app.listen(config.port, function () {
