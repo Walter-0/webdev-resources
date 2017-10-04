@@ -1,5 +1,5 @@
-module.exports = function(sequelize, DataTypes) {
-  var Resource = sequelize.define("Resource", {
+module.exports = function (sequelize, DataTypes) {
+  var Resource = sequelize.define('Resource', {
     title: {
       type: DataTypes.STRING,
       allowNull: false,
@@ -8,16 +8,16 @@ module.exports = function(sequelize, DataTypes) {
       }
     },
     description: {
-      type: DataTypes.TEXT, 
-      allowNull: true,
+      type: DataTypes.TEXT,
+      allowNull: true
     },
     link: {
       type: DataTypes.STRING,
-      allowNull: false,
-    }, 
+      allowNull: false
+    }
   }, {
     classMethods: {
-      associate: function(models) {
+      associate: function (models) {
         Resource.belongsTo(models.User);
         Resource.hasMany(models.Tag);
       }

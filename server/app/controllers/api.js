@@ -1,14 +1,14 @@
-const express = require('express'),
-  router = express.Router(),
-  db = require('../models'),
-  path = require('path');
+const express = require('express');
+const router = express.Router();
+const db = require('../models');
+const path = require('path');
 
 module.exports = function (app) {
   app.use('/', router);
 };
 
 router.get('/api/', function (req, res, next) {
-  res.sendFile(path.join(__dirname, "../../public/api.html"));
+  res.sendFile(path.join(__dirname, '../../public/api.html'));
 });
 
 // Resource
@@ -42,7 +42,7 @@ router.get('/api/tags/:id', function (req, res, next) {
   db.Tag.findOne({
     where: {
       id: req.params.id
-    },
+    }
   }).then(function (dbdbTag) {
     res.json(dbdbTag);
   });
@@ -59,7 +59,7 @@ router.get('/api/users/:id', function (req, res, next) {
   db.User.findOne({
     where: {
       id: req.params.id
-    },
+    }
   }).then(function (dbUsers) {
     res.json(dbUsers);
   });

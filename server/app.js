@@ -1,7 +1,7 @@
-const express = require('express'),
-  config = require('./config/config'),
-  db = require('./app/models');
-
+require('dotenv').config();
+const express = require('express');
+const config = require('./config/config');
+const db = require('./app/models');
 const path = require('path');
 
 var app = express();

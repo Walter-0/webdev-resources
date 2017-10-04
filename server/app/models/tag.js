@@ -1,5 +1,5 @@
-module.exports = function(sequelize, DataTypes) {
-  var Tag = sequelize.define("Tag", {
+module.exports = function (sequelize, DataTypes) {
+  var Tag = sequelize.define('Tag', {
     title: {
       type: DataTypes.STRING,
       allowNull: false,
@@ -9,15 +9,15 @@ module.exports = function(sequelize, DataTypes) {
     },
     description: {
       type: DataTypes.TEXT,
-      allowNull: true,
+      allowNull: true
     }
   }, {
     classMethods: {
-      associate: function(models) {
+      associate: function (models) {
         Tag.belongsTo(models.Resource);
       }
     }
   });
- 
+
   return Tag;
 };

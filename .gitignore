@@ -4,3 +4,4 @@ public/components
 .sass-cache
 dist/
 client/node_modules
+.env
