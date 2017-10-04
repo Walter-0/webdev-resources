@@ -1,5 +1,5 @@
 module.exports = function (sequelize, DataTypes) {
-  var Resource = sequelize.define('Resource', {
+  const Resource = sequelize.define('Resource', {
     title: {
       type: DataTypes.STRING,
       allowNull: false,
