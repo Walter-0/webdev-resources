@@ -7,6 +7,11 @@ module.exports = function (app) {
   app.use('/', router);
 };
 
+router.get('/', function (req, res, next) {
+  // pass the github tokens to the client
+  console.log('hello from root!');
+});
+
 router.get('/api/', function (req, res, next) {
   res.sendFile(path.join(__dirname, '../../public/api.html'));
 });
