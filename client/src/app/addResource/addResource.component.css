@@ -1,0 +1,12 @@
+legend {
+  border: 1px dashed #00006D;
+}
+
+form div {
+  margin: 1rem 0;
+}
+
+textarea {
+  width: 25%;
+  height: 25%;
+}

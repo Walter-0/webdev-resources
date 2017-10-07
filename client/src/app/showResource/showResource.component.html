@@ -1,0 +1,8 @@
+<h1>Current Resources</h1>
+<ul>
+  <li class="resource" *ngFor="let resource of resources">
+    <span class="resource__id">#{{resource.id}}:</span>
+    <span class="resource__title"><a target="_blank" href={{resource.link}}>{{resource.title}}</a></span>
+    <span class="resource__description">{{resource.getShortDescription()}}... <a target="_blank" href={{resource.link}}>Continue reading</a></span>
+  </li>
+</ul>

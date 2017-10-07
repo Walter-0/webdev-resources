@@ -1,0 +1,20 @@
+<h1>Add a new resource</h1>
+<form action="" method="POST">
+  <fieldset>
+    <div>
+      <label for="title">Resource Title</label>
+      <input type="text" name="title" [(ngModel)]="newResource.title"/>
+    </div>
+    <div>
+      <label for="url">Resource URL</label>
+      <input type="text" name="link" [(ngModel)]="newResource.link"/>
+    </div>
+    <div>
+      <label for="description">Resource Description</label><br>
+      <textarea name="description" [(ngModel)]="newResource.description"></textarea>
+    </div>
+    <div>
+      <button id="submit-form" (click)="saveResource()">Submit</button>
+    </div>
+  </fieldset>
+</form>

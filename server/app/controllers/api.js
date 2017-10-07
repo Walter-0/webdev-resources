@@ -20,6 +20,10 @@ router.get('/api/resources', function (req, res, next) {
   });
 });
 
+router.post('/api/resource', function (req, res) {
+  console.log(req.body);
+});
+
 router.get('/api/resources/:id', function (req, res, next) {
   db.Resource.findOne({
     where: {
