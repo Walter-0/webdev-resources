@@ -1,22 +1,5 @@
-<!--The content below is only a placeholder and can be replaced.-->
-<h1>Add a new resource</h1>
-<form action="" method="POST">
-  <fieldset>
-    <div>
-      <label for="title">Resource Title</label>
-      <input type="text" name="title" [(ngModel)]="newResource.title"/>
-    </div>
-    <div>
-      <label for="url">Resource URL</label>
-      <input type="text" name="url" [(ngModel)]="newResource.url"/>
-    </div>
-    <div>
-      <label for="description">Resource Description</label>
-      <textarea name="description" [(ngModel)]="newResource.description"></textarea>
-    </div>
-    <div>
-      <button id="submit-form" (click)="saveResource()">Submit</button>
-    </div>
-  </fieldset>
-</form>
-
+<div>
+  <h1>Welcome to our resources!</h1>
+  <a routerLink="/addResource">Add a new resource</a>
+  <router-outlet></router-outlet>
+</div>

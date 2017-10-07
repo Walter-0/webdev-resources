@@ -1,15 +1,15 @@
 const path = require('path');
-const rootPath = path.normalize(path.join(__dirname, '/..'));
+const rootPath = path.normalize(__dirname + '/..');
 const env = process.env.NODE_ENV || 'development';
 
-const config = {
+var config = {
   development: {
     root: rootPath,
     app: {
       name: 'projects'
     },
     port: process.env.PORT || 3000,
-    db: `mysql://${process.env.DB_USER}:${process.env.DB_PASS}@${process.env.DB_HOST}:3306/webdev_db`
+    db: 'mysql://root:JavaOne!2005@localhost:3306/webdev_db'
   },
 
   test: {
@@ -18,7 +18,7 @@ const config = {
       name: 'projects'
     },
     port: process.env.PORT || 3000,
-    db: `mysql://${process.env.DB_USER}@${process.env.DB_HOST}/webdev-test`
+    db: 'mysql://root@localhost/projects-test'
   },
 
   production: {
@@ -27,7 +27,7 @@ const config = {
       name: 'projects'
     },
     port: process.env.PORT || 3000,
-    db: `mysql://${process.env.DB_USER}@${process.env.DB_HOST}/webdev-production`
+    db: 'mysql://root@localhost/projects-production'
   }
 };
 
