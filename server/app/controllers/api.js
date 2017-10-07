@@ -2,6 +2,7 @@ const express = require('express');
 const router = express.Router();
 const db = require('../models');
 const path = require('path');
+const request = require('request');
 const simpleOauthModule = require('simple-oauth2');
 
 module.exports = function (app) {
@@ -27,39 +28,63 @@ const authorizationUri = oauth2.authorizationCode.authorizeURL({
   scope: 'user:email'
 });
 
-router.get('/auth', function (req, res, next) {
-  // pass the github tokens to the client
-  console.log(authorizationUri);
+router.get('/auth', function (req, res) {
   res.redirect(authorizationUri);
 });
 
 router.get('/callback', function (req, res, next) {
+  let endpoint;
   const code = req.query.code;
   const options = {
     code
   };
 
-  oauth2.authorizationCode.getToken(options, (error, result) => {
-    if (error) {
-      console.error('Access Token Error', error.message);
-      return res.json('Authentication failed');
-    }
+  oauth2.authorizationCode.getToken(options)
+    .then((result) => {
+      result.expires_at = Date.now() * 100;
+      return oauth2.accessToken.create(result);
+    })
+    .then((token) => {
+      const options = {
+        'url': `https://api.github.com/user?access_token=${token.token.access_token}`,
+        'json': true,
+        'headers': {
+          'Authorization': `Bearer ${token.token.access_token}`,
+          'User-Agent': 'webdev-resources',
+          'Accept': 'application/vnd.github.v3+json'
+        }
+      };
+      request
+        .get(options)
+        .on('response', function (githubResponse) {
+          endpoint = githubResponse.request.uri.href;
+          // we need to make a GET request to this endpoint and get user data
+        });
+      console.log(endpoint);
+    })
+    .catch((error) => {
+      console.log('Access Token Error', error.message);
+    });
+});
 
-    result.expires_at = Date.now() * 100;
-    const token = oauth2.accessToken.create(result);
+router.get('/hello', function (req, res) {
+  res.render('hello', {
+    name: 'bilbo',
+    token: 'your token here',
+    email: 'your github email'
   });
 });
 
-router.get('/login', (req, res) => {
+router.get('/login', function (req, res) {
   res.send('Hello<br><a href="/auth">Log in with Github</a>');
 });
 
-router.get('/api/', function (req, res, next) {
+router.get('/api/', function (req, res) {
   res.sendFile(path.join(__dirname, '../../public/api.html'));
 });
 
 // Resource
-router.get('/api/resources', function (req, res, next) {
+router.get('/api/resources', function (req, res) {
   db.Resource.findAll({
     include: [db.Tag]
   }).then(function (dbResources) {
@@ -67,7 +92,7 @@ router.get('/api/resources', function (req, res, next) {
   });
 });
 
-router.get('/api/resources/:id', function (req, res, next) {
+router.get('/api/resources/:id', function (req, res) {
   db.Resource.findOne({
     where: {
       id: req.params.id
@@ -79,13 +104,13 @@ router.get('/api/resources/:id', function (req, res, next) {
 });
 
 // Tag
-router.get('/api/tags', function (req, res, next) {
+router.get('/api/tags', function (req, res) {
   db.Tag.findAll({}).then(function (dbTags) {
     res.json(dbTags);
   });
 });
 
-router.get('/api/tags/:id', function (req, res, next) {
+router.get('/api/tags/:id', function (req, res) {
   db.Tag.findOne({
     where: {
       id: req.params.id
@@ -96,13 +121,13 @@ router.get('/api/tags/:id', function (req, res, next) {
 });
 
 // User
-router.get('/api/users', function (req, res, next) {
+router.get('/api/users', function (req, res) {
   db.User.findAll({}).then(function (dbUser) {
     res.json(dbUser);
   });
 });
 
-router.get('/api/users/:id', function (req, res, next) {
+router.get('/api/users/:id', function (req, res) {
   db.User.findOne({
     where: {
       id: req.params.id
