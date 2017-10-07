@@ -1,6 +1,8 @@
-const express = require('express'),
-  config = require('./config/config'),
-  db = require('./app/models');
+require('dotenv').config();
+const express = require('express');
+const config = require('./config/config');
+const db = require('./app/models');
+const path = require('path');
 
 const path = require('path');
 
@@ -9,7 +11,9 @@ app.use(express.static(path.join(__dirname, '../client/dist')));
 
 module.exports = require('./config/express')(app, config);
 db.sequelize
-  .sync()
+  .sync({
+    force: false
+  })
   .then(function () {
     if (!module.parent) {
       app.listen(config.port, function () {

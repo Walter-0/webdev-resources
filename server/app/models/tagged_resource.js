@@ -1,6 +1,5 @@
-module.exports = function(sequelize, DataTypes) {
-
-  var TaggedResource = sequelize.define('TaggedResource', {
+module.exports = function (sequelize, DataTypes) {
+  const TaggedResource = sequelize.define('TaggedResource', {
     resource_id: {
       type: DataTypes.INTEGER,
       allowNull: false
@@ -8,9 +7,8 @@ module.exports = function(sequelize, DataTypes) {
     tag_id: {
       type: DataTypes.INTEGER,
       allowNull: false
-    },
+    }
   });
 
   return TaggedResource;
 };
- 
