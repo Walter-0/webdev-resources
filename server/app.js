@@ -3,10 +3,8 @@ const express = require('express');
 const config = require('./config/config');
 const db = require('./app/models');
 const path = require('path');
+const app = express();
 
-const path = require('path');
-
-var app = express();
 app.use(express.static(path.join(__dirname, '../client/dist')));
 
 module.exports = require('./config/express')(app, config);
