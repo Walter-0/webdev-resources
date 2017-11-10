@@ -12,10 +12,18 @@ router.get('/api/', function (req, res, next) {
 });
 
 router.post('/api/resources', function (req, res, next) {
-  console.log(req.body);
+  
+  db.Resource.create({
+    title: req.body.title,
+    description: req.body.description,
+    link: req.body.description
+  }).then(function(result) {
+    res.sendStatus(201);
+    res.end();
+  });
+
 });
 
-// Resource
 router.get('/api/resources/:page?', function (req, res, next) {
   let limit = 10;
   let offset = 0;
@@ -62,7 +70,6 @@ router.get('/api/resources/:id', function (req, res, next) {
   });
 });
 
-// Tag
 router.get('/api/tags', function (req, res, next) {
   db.Tag.findAll({}).then(function (dbTags) {
     res.json(dbTags);
@@ -79,7 +86,6 @@ router.get('/api/tags/:id', function (req, res, next) {
   });
 });
 
-// User
 router.get('/api/users', function (req, res, next) {
   db.User.findAll({}).then(function (dbUser) {
     res.json(dbUser);
