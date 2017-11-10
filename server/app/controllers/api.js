@@ -44,10 +44,18 @@ router.get('/api/', function (req, res) {
 });
 
 router.post('/api/resources', function (req, res, next) {
-  console.log(req.body);
+
+  db.Resource.create({
+    title: req.body.title,
+    description: req.body.description,
+    link: req.body.description
+  }).then(function(result) {
+    res.sendStatus(201);
+    res.end();
+  });
+
 });
 
-// Resource
 router.get('/api/resources/:page?', function (req, res, next) {
   let limit = 10;
   let offset = 0;
