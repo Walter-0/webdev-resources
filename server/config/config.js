@@ -27,7 +27,7 @@ var config = {
       name: 'projects'
     },
     port: process.env.PORT || 3000,
-    db: 'mysql://root@localhost/projects-production'
+    db: `${process.env.JAWSDB_URL}`
   }
 };
 
