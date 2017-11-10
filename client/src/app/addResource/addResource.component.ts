@@ -9,11 +9,9 @@ import { ResourceService } from '../shared/resource.service';
 })
 
 export class AddResourceComponent {
-  constructor (private resourceService: ResourceService) {
-    console.log('created');
-  }
+  private newResource: Resource = new Resource(0, '', '', '', '');
 
-  newResource: Resource = new Resource(0, '', '', '', '');
+  constructor (private resourceService: ResourceService) {}
 
   saveResource(): void {
     this.resourceService.saveResource(this.newResource);

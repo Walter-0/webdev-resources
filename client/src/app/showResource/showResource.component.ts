@@ -9,14 +9,21 @@ import { Resource } from '../shared/resource';
 })
 
 export class ShowResourceComponent {
-  resources = [];
+  public resources: Array<Resource> = [];
 
   constructor (private resourceService: ResourceService) {
+    this.downloadResources();
+  }
+
+  private downloadResources(): void {
     this.resourceService.getAllResources().subscribe(data => {
-      const resourceData = data as Resource;
-      this.resources.push(
-        new Resource(resourceData.id, resourceData.title, resourceData.description, resourceData.link, resourceData.userId)
-      );
+      data.forEach(resourceData => this.resources.push(
+        new Resource(
+          resourceData.id,
+          resourceData.title,
+          resourceData.description,
+          resourceData.link,
+          resourceData.userId)));
     });
   }
 }
