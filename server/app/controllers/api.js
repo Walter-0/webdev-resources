@@ -43,20 +43,18 @@ router.get('/api/', function (req, res) {
   res.sendFile(path.join(__dirname, '../../public/api.html'));
 });
 
-router.post('/api/resources', function (req, res, next) {
-
+router.post('/api/resources', function (req, res) {
   db.Resource.create({
     title: req.body.title,
     description: req.body.description,
     link: req.body.description
-  }).then(function(result) {
+  }).then(function (result) {
     res.sendStatus(201);
     res.end();
   });
-
 });
 
-router.get('/api/resources/:page?', function (req, res, next) {
+router.get('/api/resources/:page?', function (req, res) {
   let limit = 10;
   let offset = 0;
   let page = 1;
