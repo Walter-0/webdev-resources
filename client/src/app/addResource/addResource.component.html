@@ -2,8 +2,9 @@
 <form action="" method="POST">
   <fieldset>
     <div>
-      <label for="title">Resource Title</label>
-      <input type="text" name="title" [(ngModel)]="newResource.title"/>
+      <!-- <mat-form-field class="example-full-width"> -->
+          <input matInput type="text" placeholder="Title" name="title" [(ngModel)]="newResource.title"/>
+      <!-- </mat-form-field> -->
     </div>
     <div>
       <label for="url">Resource URL</label>

@@ -11,6 +11,10 @@ router.get('/api/', function (req, res, next) {
   res.sendFile(path.join(__dirname, '../../public/api.html'));
 });
 
+router.post('/api/resources', function (req, res, next) {
+  console.log(req.body);
+});
+
 // Resource
 router.get('/api/resources', function (req, res, next) {
   db.Resource.findAll({

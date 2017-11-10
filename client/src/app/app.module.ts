@@ -1,13 +1,15 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
-import { HttpModule } from '@angular/http';
+import { HttpClientModule } from '@angular/common/http';
 import { RouterModule } from '@angular/router';
 
 import { AppComponent } from './app.component';
 import { AddResourceComponent } from './addResource/addResource.component';
 import { ResourceService } from './shared/resource.service';
 import { ShowResourceComponent } from './showResource/showResource.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+// import { MatFormField } from '@angular/material';
 
 @NgModule({
   declarations: [
@@ -16,13 +18,19 @@ import { ShowResourceComponent } from './showResource/showResource.component';
     ShowResourceComponent
   ],
   imports: [
+    BrowserAnimationsModule,
+    // MatFormField,
     BrowserModule,
     FormsModule,
-    HttpModule,
+    HttpClientModule,
     RouterModule.forRoot([
       {
         path: 'addResource',
         component: AddResourceComponent
+      },
+      {
+        path: 'showResources',
+        component: ShowResourceComponent
       }
     ])
   ],
