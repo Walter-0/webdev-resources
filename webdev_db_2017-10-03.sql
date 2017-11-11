@@ -23,6 +23,8 @@
 # Dump of table Resources
 # ------------------------------------------------------------
 
+CREATE TABLE Resources;
+CREATE TABLE Users;
 LOCK TABLES `Resources` WRITE;
 /*!40000 ALTER TABLE `Resources` DISABLE KEYS */;
 
