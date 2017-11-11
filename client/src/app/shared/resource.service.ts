@@ -8,17 +8,15 @@ import 'rxjs/add/operator/mergeMap';
 
 @Injectable()
 export class ResourceService {
-  private apiUrl = 'http://localhost:3000/';
-
   constructor (private http: HttpClient) {}
 
   public getAllResources(): any {
-    return this.http.get(this.apiUrl + 'api/resources');
+    return this.http.get('/api/resources');
   }
 
   public saveResource(resource: Resource): void {
     this.http
-      .post(this.apiUrl + 'api/resources', resource)
+      .post('/api/resources', resource)
       .subscribe((response) => console.log(response), this.handleError);
   }
 
