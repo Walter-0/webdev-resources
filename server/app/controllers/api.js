@@ -43,7 +43,7 @@ router.get('/api/', function (req, res) {
   res.sendFile(path.join(__dirname, '../../public/api.html'));
 });
 
-router.post('/api/resources', function (req, res) {
+router.post('/api/resources', ensureAuthenticated, function (req, res) {
   db.Resource.create({
     title: req.body.title,
     description: req.body.description,
@@ -59,9 +59,7 @@ router.get('/api/resources/:page?', function (req, res) {
   let offset = 0;
   let page = 1;
 
-  db.Resource.findAndCountAll({
-    include: [db.Tag]
-  }).then(function (data) {
+  db.Resource.findAndCountAll().then(function (data) {
     if (req.params.page) {
       page = req.params.page;
     }
@@ -79,7 +77,8 @@ router.get('/api/resources/:page?', function (req, res) {
       res.status(200).json({
         'result': resources,
         'count': data.count,
-        'pages': pages
+        'pages': pages,
+        'user': req.user
       });
     }).catch(function (error) {
       if (error) throw error;
@@ -92,44 +91,9 @@ router.get('/api/resources/:id', function (req, res) {
   db.Resource.findOne({
     where: {
       id: req.params.id
-    },
-    include: [db.Tag]
+    }
   }).then(function (dbResource) {
     res.json(dbResource);
-  });
-});
-
-// Tag
-router.get('/api/tags', function (req, res) {
-  db.Tag.findAll({}).then(function (dbTags) {
-    res.json(dbTags);
-  });
-});
-
-router.get('/api/tags/:id', function (req, res) {
-  db.Tag.findOne({
-    where: {
-      id: req.params.id
-    }
-  }).then(function (dbdbTag) {
-    res.json(dbdbTag);
-  });
-});
-
-// User
-router.get('/api/users', function (req, res) {
-  db.User.findAll({}).then(function (dbUser) {
-    res.json(dbUser);
-  });
-});
-
-router.get('/api/users/:id', function (req, res) {
-  db.User.findOne({
-    where: {
-      id: req.params.id
-    }
-  }).then(function (dbUsers) {
-    res.json(dbUsers);
   });
 });
 
@@ -138,7 +102,7 @@ router.get('/api/users/:id', function (req, res) {
 //   the request is authenticated (typically via a persistent login session),
 //   the request will proceed.  Otherwise, the user will be redirected to the
 //   login page.
-// function ensureAuthenticated (req, res, next) {
-//   if (req.isAuthenticated()) { return next(); }
-//   res.redirect('/login');
-// }
+function ensureAuthenticated (req, res, next) {
+  if (req.isAuthenticated()) { return next(); }
+  res.redirect('/login');
+}
