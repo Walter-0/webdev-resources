@@ -1,12 +1,9 @@
-legend {
-  border: 1px dashed #00006D;
+.form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
 }
 
-form div {
-  margin: 1rem 0;
-}
-
-textarea {
-  width: 25%;
-  height: 25%;
+.full-width {
+  width: 100%;
 }

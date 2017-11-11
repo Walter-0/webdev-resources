@@ -1,8 +1,15 @@
-<h1>Current Resources</h1>
 <ul>
   <li class="resource" *ngFor="let resource of resources">
-    <span class="resource__id">#{{resource.id}}:</span>
-    <span class="resource__title"><a target="_blank" href={{resource.link}}>{{resource.title}}</a></span>
-    <span class="resource__description">{{resource.getShortDescription()}}... <a target="_blank" href={{resource.link}}>Continue reading</a></span>
+    <mat-card matLine>
+      <mat-card-title>
+        <a target="_blank" href={{resource.link}}>{{resource.title}}</a>
+      </mat-card-title>
+      <mat-card-content>
+        {{resource.getShortDescription()}}...
+      </mat-card-content>
+      <mat-card-actions>
+        <a mat-raised-button target="_blank" href={{resource.link}}>Continue reading</a>
+      </mat-card-actions>
+    </mat-card>
   </li>
 </ul>
