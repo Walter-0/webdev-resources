@@ -95,3 +95,7 @@ router.get('/api/users/:id', function (req, res, next) {
     res.json(dbUsers);
   });
 });
+
+router.get('*', function (req, res, next) {
+  res.sendFile(path.join(__dirname, '../../../client/dist/index.html'));
+});
