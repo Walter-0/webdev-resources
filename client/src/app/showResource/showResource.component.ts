@@ -17,7 +17,7 @@ export class ShowResourceComponent {
 
   private downloadResources(): void {
     this.resourceService.getAllResources().subscribe(data => {
-      data.forEach(resourceData => this.resources.push(
+      data.result.forEach(resourceData => this.resources.push(
         new Resource(
           resourceData.id,
           resourceData.title,

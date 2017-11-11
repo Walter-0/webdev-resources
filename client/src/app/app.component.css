@@ -1,0 +1,20 @@
+.toolbar button {
+  float: right;
+}
+
+.flex-spacer {
+  flex-grow: 1;
+}
+
+.content {
+  padding: 0 1rem;
+}
+
+h1 a, h1 a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  margin-left: 1rem;
+}
