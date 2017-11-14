@@ -2,6 +2,9 @@ const express = require('express');
 const router = express.Router();
 const db = require('../models');
 const path = require('path');
+// const Sequelize = require('sequelize');
+
+// const Op = Sequelize.Op;
 
 module.exports = function (app) {
   app.use('/', router);
@@ -101,3 +104,16 @@ router.get('/api/users/:id', function (req, res, next) {
     res.json(dbUsers);
   });
 });
+
+router.get('/api/resources/search/:term', function (req, res, next) {
+  db.Resource.findAll({
+    where: {
+      title: {
+        $like: '%' + req.params.term + '%'
+      }
+    }
+  }).then(function (dbResource) {
+    res.json(dbResource);
+  });
+});
+
