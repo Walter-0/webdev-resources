@@ -97,10 +97,6 @@ router.get('/api/resources/:id', function (req, res) {
   });
 });
 
-router.get('*', function (req, res, next) {
-  res.sendFile(path.join(__dirname, '../../../client/dist/index.html'));
-});
-
 router.get('/api/resources/search/:term', function (req, res, next) {
   db.Resource.findAll({
     where: {
@@ -122,3 +118,7 @@ function ensureAuthenticated (req, res, next) {
   if (req.isAuthenticated()) { return next(); }
   res.redirect('/login');
 }
+
+router.get('*', function (req, res, next) {
+  res.sendFile(path.join(__dirname, '../../../client/dist/index.html'));
+});
