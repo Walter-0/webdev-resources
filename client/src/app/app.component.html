@@ -1,7 +1,11 @@
-<div>
-  <h1>Welcome to our resources!</h1>
-  <a routerLink="/addResource">Add a new resource</a>
-  <br>
-  <a routerLink="/showResources">Show all resources</a>
+<mat-toolbar class="toolbar">
+  <mat-toolbar-row>
+    <h1><a routerLink="/">UNH Coding Boot Camp 2017 Resources</a></h1>
+    <div class="flex-spacer"></div>
+    <button mat-button routerLink="/addResource">Add a new resource</button>
+    <button mat-button routerLink="/showResources">Show all resources</button>
+  </mat-toolbar-row>
+</mat-toolbar>
+<section class="container">
   <router-outlet></router-outlet>
-</div>
+</section>

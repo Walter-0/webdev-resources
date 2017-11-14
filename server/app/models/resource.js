@@ -15,14 +15,6 @@ module.exports = function (sequelize, DataTypes) {
       type: DataTypes.STRING,
       allowNull: false
     }
-  }, {
-    classMethods: {
-      associate: function (models) {
-        Resource.belongsTo(models.User);
-        Resource.hasMany(models.Tag);
-      }
-    }
   });
-
   return Resource;
 };

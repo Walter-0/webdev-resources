@@ -17,16 +17,16 @@ Search and add helpful resources relevant to full stack web development.
 - url:String
 - user_id:Integer
 
-### Tag
+### Tag (Nope)
 - id:Integer
 - title:String
 - description:String (optional)
 
-### TaggedResource
+### TaggedResource (Nope)
 - resource_id:Integer
 - tag_id:Integer
 
-### User
+### User (Nope)
 - github_user_id
 - name
 - email
