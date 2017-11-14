@@ -2,9 +2,6 @@ const express = require('express');
 const router = express.Router();
 const db = require('../models');
 const path = require('path');
-// const Sequelize = require('sequelize');
-
-// const Op = Sequelize.Op;
 
 module.exports = function (app) {
   app.use('/', router);
