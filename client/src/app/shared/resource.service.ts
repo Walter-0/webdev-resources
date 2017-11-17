@@ -10,8 +10,8 @@ import 'rxjs/add/operator/mergeMap';
 export class ResourceService {
   constructor (private http: HttpClient) {}
 
-  public getAllResources(): any {
-    return this.http.get('/api/resources');
+  public getAllResources(page?: Number): any {
+    return this.http.get(`/api/resources/${page ? page : ''}`);
   }
 
   public saveResource(resource: Resource): void {
@@ -20,9 +20,9 @@ export class ResourceService {
       .subscribe((response) => console.log(response), this.handleError);
   }
 
-  public getResourcesByTag(tag: String): void {}
-
-  public deleteResource(resource: Resource): void {}
+  public getResourcesCount() {
+    return this.http.get('/api/resources');
+  }
 
   private handleError(error: any): Promise<any> {
     console.error('An error occurred', error);

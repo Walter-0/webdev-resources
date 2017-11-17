@@ -10,6 +10,8 @@ import { ResourceService } from './shared/resource.service';
 import { ShowResourceComponent } from './showResource/showResource.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HomeComponent } from './home/home.component';
+import { PaginationComponent } from './showResource/pagination/pagination.component';
+import { PaginationService } from './shared/pagination.service';
 import {
   MatAutocompleteModule,
   MatButtonModule,
@@ -85,7 +87,8 @@ export class MatModule {}
     AppComponent,
     AddResourceComponent,
     ShowResourceComponent,
-    HomeComponent
+    HomeComponent,
+    PaginationComponent
   ],
   imports: [
     BrowserAnimationsModule,
@@ -103,12 +106,16 @@ export class MatModule {}
         component: AddResourceComponent
       },
       {
+        path: 'showResources/:id',
+        component: ShowResourceComponent
+      },
+      {
         path: 'showResources',
         component: ShowResourceComponent
       }
     ])
   ],
-  providers: [ ResourceService ],
+  providers: [ ResourceService, PaginationService ],
   bootstrap: [ AppComponent ]
 })
 export class AppModule { }
