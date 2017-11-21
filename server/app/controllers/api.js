@@ -87,16 +87,6 @@ router.get('/api/resources/:page?', function (req, res) {
   });
 });
 
-router.get('/api/resources/:id', function (req, res) {
-  db.Resource.findOne({
-    where: {
-      id: req.params.id
-    }
-  }).then(function (dbResource) {
-    res.json(dbResource);
-  });
-});
-
 router.get('/api/resources/search/:term', function (req, res, next) {
   db.Resource.findAll({
     where: {

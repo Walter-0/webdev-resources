@@ -3,7 +3,6 @@ const glob = require('glob');
 const logger = require('morgan');
 const bodyParser = require('body-parser');
 const compress = require('compression');
-const methodOverride = require('method-override');
 const GitHubStrategy = require('passport-github2').Strategy;
 const passport = require('passport');
 
@@ -19,7 +18,6 @@ module.exports = function (app, config) {
   }));
 
   app.use(compress());
-  app.use(methodOverride());
   app.use(session({ secret: 'keyboard cat', resave: false, saveUninitialized: false }));
   // Passport session setup.
   //   To support persistent login sessions, Passport needs to be able to
