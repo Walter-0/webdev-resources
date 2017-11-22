@@ -12,6 +12,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HomeComponent } from './home/home.component';
 import { PaginationComponent } from './showResource/pagination/pagination.component';
 import { PaginationService } from './shared/pagination.service';
+import { SearchResourcesComponent } from './searchResources/search-resources.component';
 import {
   MatAutocompleteModule,
   MatButtonModule,
@@ -88,7 +89,8 @@ export class MatModule {}
     AddResourceComponent,
     ShowResourceComponent,
     HomeComponent,
-    PaginationComponent
+    PaginationComponent,
+    SearchResourcesComponent
   ],
   imports: [
     BrowserAnimationsModule,
@@ -112,6 +114,10 @@ export class MatModule {}
       {
         path: 'showResources',
         component: ShowResourceComponent
+      },
+      {
+        path: 'searchResources',
+        component: SearchResourcesComponent
       }
     ])
   ],

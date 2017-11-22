@@ -1,0 +1,21 @@
+<mat-form-field>
+  <input matInput type="text" placeholder="Search here..." (keyup)="downloadResources()" [(ngModel)]="term"/>
+</mat-form-field>
+
+<p>Search results for: {{term}}</p>
+
+<ul>
+  <li class="resource" *ngFor="let resource of resources">
+    <mat-card matLine>
+      <mat-card-title>
+        <a target="_blank" href={{resource.link}}>{{resource.title}}</a>
+      </mat-card-title>
+      <mat-card-content>
+        {{resource.getShortDescription()}}...
+      </mat-card-content>
+      <mat-card-actions>
+        <a mat-raised-button target="_blank" href={{resource.link}}>Continue reading</a>
+      </mat-card-actions>
+    </mat-card>
+  </li>
+</ul>
