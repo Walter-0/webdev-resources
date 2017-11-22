@@ -70,9 +70,7 @@ router.get('/api/resources/:page?', function (req, res) {
     db.Resource.findAll({
       limit: limit,
       offset: offset,
-      $sort: {
-        id: 1
-      }
+      order: [ ['createdAt', 'DESC'] ]
     }).then((resources) => {
       res.status(200).json({
         'result': resources,
