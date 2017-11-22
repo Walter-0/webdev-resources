@@ -1,20 +1,7 @@
-var gulp = require('gulp'),
-  nodemon = require('gulp-nodemon'),
-  plumber = require('gulp-plumber'),
-  livereload = require('gulp-livereload'),
-  sass = require('gulp-ruby-sass');
-
-var exec = require('child_process').exec;
-
-gulp.task('sass', function () {
-  return sass('./public/css/**/*.scss')
-    .pipe(gulp.dest('./public/css'))
-    .pipe(livereload());
-});
-
-gulp.task('watch', function () {
-  gulp.watch('./public/css/*.scss', ['sass']);
-});
+const gulp = require('gulp');
+const nodemon = require('gulp-nodemon');
+const livereload = require('gulp-livereload');
+const exec = require('child_process').exec;
 
 gulp.task('develop', ['build-client'], function () {
   livereload.listen();
@@ -42,8 +29,6 @@ gulp.task('build-client', function (cb) {
 });
 
 gulp.task('default', [
-  'sass',
   'build-client',
-  'develop',
-  'watch'
+  'develop'
 ]);
