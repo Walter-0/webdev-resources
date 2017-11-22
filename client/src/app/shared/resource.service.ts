@@ -14,6 +14,10 @@ export class ResourceService {
     return this.http.get(`/api/resources/${page ? page : ''}`);
   }
 
+  public searchResources(term: String): any {
+    return this.http.get(`/api/resources/search/${term}`);
+  }
+
   public saveResource(resource: Resource): void {
     this.http
       .post('/api/resources', resource)

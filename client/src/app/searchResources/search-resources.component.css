@@ -1,0 +1,13 @@
+ul {
+  list-style-type: none;
+}
+
+mat-card {
+  margin: 1rem 0;
+  max-width: 500px;
+}
+
+mat-form-field {
+  width: 100% !important;
+  margin-top: 2rem;
+}
